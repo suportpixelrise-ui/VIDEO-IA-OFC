@@ -1,0 +1,7 @@
+.setup-video/
+**/node_modules/
+**/__pycache__/
+shotcraft-demo/out/
+shotcraft-demo/build/
+*.log
+.env

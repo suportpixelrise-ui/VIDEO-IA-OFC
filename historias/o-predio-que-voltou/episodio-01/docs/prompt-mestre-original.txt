@@ -1,0 +1,852 @@
+PROMPT MESTRE — HISTÓRIA INTERATIVA EM ANIMAÇÃO CARTOON 2D, COM PERSONAGENS, NARRAÇÃO E CONTINUIDADE
+
+Atue como roteirista, diretor de narrativa audiovisual e supervisor de continuidade. Desenvolva uma história em vídeo a partir do bloco de entrada abaixo, combinando personagens consistentes, narração natural, animação expressiva, desenho de som e participação do público.
+
+A história deve ser simples de acompanhar e provocar curiosidade por meio de acontecimentos concretos. O espectador precisa entender quem é a protagonista, o que aconteceu com ela, o que deseja e por que sua próxima decisão importa.
+
+Apresente o contexto aos poucos, na ordem necessária para compreender os acontecimentos. A curiosidade deve surgir enquanto o público acompanha a história.
+
+A referência visual aprovada é a base obrigatória da aparência deste episódio. Preserve sua linguagem cartoon 2D nos personagens, cenários, objetos e animações.
+
+Use as ferramentas e skills disponíveis que contribuam para o resultado. Adapte a execução às capacidades reais do ambiente. Diferencie claramente roteiro, imagens, cenas animadas, áudio e vídeo final. Só declare uma etapa concluída quando seu resultado existir e tiver sido verificado.
+
+────────────────────────────
+1. BLOCO DE ENTRADA
+────────────────────────────
+
+TÍTULO DA SÉRIE:
+O Prédio que Voltou.
+
+EPISÓDIO:
+1 — A cadeira vazia.
+
+GÊNERO:
+Apocalipse misterioso, suspense e drama de sobrevivência.
+
+PÚBLICO:
+Adolescentes e adultos que gostam de mistérios, sobrevivência e histórias com escolhas.
+
+IDIOMA:
+Português brasileiro.
+
+FORMATO:
+Vídeo vertical, proporção 9:16.
+
+DURAÇÃO DE REFERÊNCIA:
+Aproximadamente 100 segundos. Ajustar a montagem à duração real da locução, preservando pausas, reações e compreensão. Não acelerar artificialmente a voz para cumprir um tempo fixo.
+
+ESTILO VISUAL:
+Animação cartoon 2D baseada na imagem aprovada dos personagens Lia, Caio e Motorista.
+
+Cabeças maiores, corpos simplificados, olhos expressivos, sobrancelhas marcantes, poses claras e expressões exageradas. Contornos escuros, cores predominantemente chapadas e sombras simples.
+
+Os personagens devem parecer desenhados e pertencer ao mesmo universo visual. Evitar aparência fotográfica, semirrealista ou de modelagem 3D.
+
+Usar profundidade 2.5D apenas como recurso de composição e movimento entre camadas desenhadas.
+
+REFERÊNCIA VISUAL OFICIAL DESTA HISTÓRIA:
+personagens-cartoon-2d-aprovado.png
+
+LOCAL DO ARQUIVO NESTE WORKSPACE:
+C:\Users\Michael\Documents\ChatGPT\VIDEOS IA\historias\o-predio-que-voltou\referencias\personagens-cartoon-2d-aprovado.png
+
+IDENTIFICAÇÃO DA IMAGEM:
+Folha de personagens cartoon 2D, com Lia à esquerda, Caio ao centro e Motorista à direita. Apresenta os personagens de corpo inteiro e pequenas variações de expressão abaixo de cada um.
+
+Essa é a referência aprovada. As versões anteriores, realista e 3D, não devem orientar esta produção.
+
+Se o arquivo não estiver acessível no ambiente de execução, solicitar que a imagem seja anexada antes de gerar os personagens definitivos. O nome ou o caminho do arquivo, sozinho, não substitui a referência visual.
+
+TOM:
+Inquietante, humano e emocional. O medo deve surgir do comportamento estranho das pessoas, da ausência de explicações e da possibilidade de perda.
+
+A aparência cartunesca não transforma a história em comédia. Expressões exageradas devem comunicar esperança, preocupação, surpresa e dúvida.
+
+NÍVEL DE VIOLÊNCIA:
+Sem violência gráfica. A tensão vem da situação e das decisões.
+
+NARRAÇÃO:
+Voz feminina adulta, em português brasileiro, próxima e contida. Dicção clara, emoção discreta e ritmo que permita acompanhar as imagens.
+
+OBJETIVO:
+Apresentar uma perda pessoal, contextualizar a sobrevivência da protagonista, introduzir um acontecimento que muda sua situação e terminar com duas escolhas que determinem acontecimentos diferentes no episódio seguinte.
+
+HISTÓRIA DE ENTRADA:
+Há doze dias, Lia foi buscar o irmão e encontrou um terreno vazio no lugar do prédio dele. A construção inteira havia desaparecido durante a madrugada. Restava apenas terra lisa.
+
+Outros prédios começaram a desaparecer também. Sem encontrar o irmão, Lia se refugiou numa escola com outros sobreviventes. Ninguém sabe a causa do fenômeno nem quanto do mundo ainda existe.
+
+Agora, os moradores do abrigo vão deixar a cidade. O último ônibus está pronto para partir.
+
+Lia entra na fila para embarcar quando percebe uma luz do outro lado da rua. O prédio do irmão reapareceu.
+
+Ela atravessa a rua e se aproxima da janela do térreo. Lá dentro, vê o irmão sentado com os vizinhos para jantar. A comida está quente. Eles parecem continuar a vida normalmente.
+
+Lia bate no vidro. Ninguém responde.
+
+Então o irmão olha para ela e puxa a única cadeira vazia.
+
+Atrás de Lia, o motorista buzina. O ônibus começa a andar devagar, ainda próximo o suficiente para ser alcançado.
+
+Lia está entre entrar para buscar o irmão e partir com os sobreviventes.
+
+O episódio termina antes de ela escolher.
+
+ESCOLHAS DO PÚBLICO:
+A — Entrar no prédio e tentar buscar o irmão.
+B — Pegar o ônibus e seguir com os sobreviventes.
+
+MISTÉRIO CENTRAL:
+Onde essas pessoas estiveram e por que parecem estar esperando por Lia?
+
+ESTADO DA VOTAÇÃO:
+Ainda não realizada. Não existe opção vencedora.
+
+ENTREGA DESEJADA AO EXECUTAR ESTE PROMPT:
+Produzir um episódio animado com personagens, cenas, narração, efeitos sonoros, trilha discreta e legendas, quando as ferramentas disponíveis permitirem. Se a execução completa não for possível, entregar o pacote de produção utilizável e identificar precisamente os elementos pendentes.
+
+REGRA PARA REUTILIZAR ESTA BASE:
+Quando o bloco de entrada apresentar outra história, adaptar personagens, ambientação, narração e cenas à nova premissa.
+
+Os exemplos específicos de “O Prédio que Voltou” nas seções seguintes só se aplicam quando essa for a história selecionada. Não transportar Lia, o prédio ou o ônibus para histórias diferentes sem motivo narrativo.
+
+A imagem aprovada fixa a identidade visual desta história. Para outra história, sua linguagem gráfica pode ser reutilizada, mas os personagens devem seguir o novo bloco de entrada.
+
+────────────────────────────
+2. PRINCÍPIOS DA NARRATIVA E DA ABERTURA
+────────────────────────────
+
+Construa o episódio em torno de:
+
+• Uma protagonista identificável.
+• Uma perda ou necessidade compreensível.
+• Um desejo imediato.
+• Um acontecimento que altera sua situação.
+• Uma decisão com custo emocional.
+• Uma pergunta relevante que permaneça aberta.
+
+Para esta história, siga a ordem:
+
+PERDA DO IRMÃO → SOBREVIVÊNCIA NO ABRIGO → TENTATIVA DE PARTIR → RETORNO DO PRÉDIO → POSSIBILIDADE DE REENCONTRO → ESCOLHA.
+
+Nos primeiros segundos, apresente Lia procurando o irmão e encontrando um terreno vazio onde deveria estar o prédio dele.
+
+Essa situação já contém o primeiro mistério. Não é necessário antecipar o retorno do prédio para despertar interesse.
+
+Depois, amplie o contexto: outros lugares também desapareceram, Lia precisou se refugiar e os sobreviventes agora vão embora.
+
+Quando o prédio retornar, o público já deve compreender o que ele representa para Lia e por que ela interrompe o embarque.
+
+Cada informação precisa preparar a seguinte. Evite mudanças de assunto que obriguem o espectador a reconstruir sozinho a relação entre os acontecimentos.
+
+Não abra com uma montagem de acontecimentos futuros, frases soltas ou explicações abstratas sobre o fim do mundo.
+
+Não antecipe o retorno do prédio nas primeiras imagens ou em um título de abertura. O nome da série pode permanecer nos metadados e ser apresentado depois da revelação, se necessário.
+
+O conflito deve poder ser resumido assim:
+
+“Lia pode recuperar o irmão desaparecido, mas talvez perca sua última oportunidade de sair da cidade.”
+
+Apresente informações suficientes para que a escolha faça sentido. Preserve a explicação do fenômeno para episódios futuros.
+
+Cada cena deve acrescentar informação, desenvolver emoção ou aumentar a pressão sobre a protagonista.
+
+Crie curiosidade com detalhes observáveis: a terra lisa, a luz numa área antes vazia, a comida quente, a ausência de resposta e a cadeira puxada para Lia.
+
+Não acrescente fenômenos aleatórios apenas para tornar a história mais estranha.
+
+────────────────────────────
+3. O QUE JÁ É VERDADE NA HISTÓRIA
+────────────────────────────
+
+Para “O Prédio que Voltou”, preserve estes fatos:
+
+1. Os desaparecimentos começaram há doze dias.
+2. Lia encontrou um terreno vazio quando foi buscar o irmão.
+3. Prédios ou partes da cidade desaparecem durante a noite.
+4. Nos lugares afetados, resta terra lisa.
+5. Os sobreviventes não conhecem a causa.
+6. Lia perdeu contato com o irmão quando o prédio dele desapareceu.
+7. O abrigo funciona em uma escola.
+8. Os moradores do abrigo estão organizando uma evacuação.
+9. O prédio retorna quando Lia está prestes a embarcar.
+10. As pessoas reaparecidas estão sentadas para jantar.
+11. Há sinais visíveis de comida quente.
+12. Elas não respondem às batidas de Lia no vidro.
+13. O irmão olha para Lia e puxa a cadeira vazia.
+14. O ônibus ainda pode ser alcançado no momento da decisão.
+15. Lia não escolhe antes do encerramento.
+
+Não estabeleça como fato que os desaparecidos morreram, viraram monstros ou viajaram no tempo.
+
+Não transforme uma hipótese de Lia em explicação confirmada.
+
+Não revele a origem do apocalipse neste episódio.
+
+────────────────────────────
+4. PERSONAGENS E IDENTIDADE VISUAL
+────────────────────────────
+
+Use a imagem aprovada como modelo principal de desenho.
+
+As descrições abaixo complementam essa referência. Para proporções, formato do rosto, cabelo, cores e desenho do figurino, preserve o que aparece na imagem.
+
+Não redesenhe os personagens em outro estilo a cada cena.
+
+LIA — PROTAGONISTA
+
+• Mulher brasileira de aproximadamente 24 anos, representada como adulta em linguagem cartoon.
+• Pele parda em cores chapadas, seguindo a referência.
+• Cabeça maior em relação ao corpo.
+• Olhos grandes e sobrancelhas expressivas.
+• Cabelo castanho-escuro, ondulado, preso em um rabo baixo, com mechas soltas características.
+• Jaqueta verde-oliva.
+• Camiseta bege, calça escura e tênis claros.
+• Mochila vermelho desbotado, com alças visíveis.
+• Silhueta reconhecível pelo cabelo, pela jaqueta e pela mochila.
+• Personalidade prática, mas emocionalmente vulnerável quando se trata do irmão.
+
+Nas cenas do presente, comunique cansaço pela postura, pelas pálpebras e pela expressão. Evite acrescentar texturas realistas ou excesso de detalhes ao desenho.
+
+CAIO — IRMÃO DE LIA
+
+• Homem brasileiro de aproximadamente 20 anos, representado como jovem adulto em linguagem cartoon.
+• Pele parda, seguindo a referência.
+• Cabeça maior e corpo simplificado.
+• Cabelo castanho-escuro curto e ondulado, organizado em formas gráficas.
+• Camiseta cinza sem estampa.
+• Calça azul-escura e tênis simples.
+• Semelhança familiar com Lia, preservando identidade própria.
+• Movimentos calmos.
+• Expressão familiar, difícil de interpretar.
+• Sem transformação monstruosa neste episódio.
+
+MOTORISTA
+
+• Homem de aproximadamente 50 anos, representado como adulto mais velho em linguagem cartoon.
+• Rosto mais largo e corpo compacto, conforme a referência.
+• Cabelo grisalho e sobrancelhas marcantes.
+• Barba e bigode simplificados conforme o desenho aprovado.
+• Camisa de trabalho azul.
+• Calça escura e calçados de trabalho.
+• Postura cansada e urgente.
+• Sua função dramática é tornar concreta a possibilidade de partir.
+
+FIGURANTES
+
+Poucos sobreviventes no ônibus e poucas pessoas à mesa.
+
+Desenhe os figurantes com a mesma linguagem gráfica, mantendo formas simples e reduzindo detalhes nos personagens de fundo.
+
+CONTINUIDADE OBRIGATÓRIA
+
+Mantenha o mesmo desenho de rosto, proporção entre cabeça e corpo, cabelo, figurino e paleta em todas as cenas.
+
+Quando a ferramenta permitir, utilize a imagem aprovada como referência de personagem e de estilo.
+
+Preserve a identidade durante mudanças de expressão e de ângulo. Surpresa, medo ou alegria não podem transformar o personagem em outra pessoa.
+
+A mochila de Lia não pode mudar de cor ou desaparecer sem uma ação que explique isso. Caio deve permanecer com a mesma roupa. O motorista precisa continuar reconhecível.
+
+Se usar uma fotografia de Lia com o irmão dentro da história, represente-a como uma imagem desenhada dos mesmos personagens cartoon.
+
+────────────────────────────
+5. ESPAÇO, CENÁRIO E GEOGRAFIA
+────────────────────────────
+
+Defina uma disposição simples antes de montar os planos:
+
+• A escola usada como abrigo fica de um lado da rua.
+• O ônibus aguarda próximo à saída da escola.
+• O terreno onde estava o prédio fica do outro lado.
+• O prédio reaparece nesse mesmo terreno.
+• A janela do jantar fica no térreo.
+• A entrada do prédio fica perto dessa janela.
+• Lia consegue ver o ônibus a partir da entrada.
+
+Essa disposição deve permanecer estável.
+
+Mostre a área vazia antes do retorno, para que o público perceba a mudança.
+
+O espectador precisa entender que Lia está entre duas possibilidades físicas: atravessar a porta ou voltar para o ônibus.
+
+Desenhe todos os cenários e objetos na linguagem da referência: formas claras, contornos coerentes, cores controladas e poucos detalhes.
+
+A cidade deve ser reconhecível como uma cidade brasileira contemporânea, com abandono recente: veículos parados, comércio fechado, lixo levado pelo vento e quarteirões interrompidos por áreas de terra lisa.
+
+Evite ruínas antigas cobertas por vegetação. O fenômeno começou há poucos dias.
+
+Simplifique fachadas, janelas, veículos e objetos sem prejudicar a compreensão do espaço.
+
+No interior do apartamento, use objetos comuns: mesa, pratos, copos e iluminação doméstica. Todos devem parecer parte do mesmo universo desenhado.
+
+O desconforto vem da normalidade preservada naquele lugar impossível.
+
+────────────────────────────
+6. DIREÇÃO VISUAL, ANIMAÇÃO E EMOÇÃO
+────────────────────────────
+
+Organize a progressão emocional:
+
+ABERTURA:
+Perda e procura. Lia tenta compreender o que aconteceu com o irmão.
+
+ABRIGO:
+Cansaço e necessidade de continuar vivendo.
+
+EVACUAÇÃO:
+Uma decisão difícil já foi tomada: deixar a cidade sem encontrá-lo.
+
+RETORNO:
+A esperança interrompe a partida.
+
+JANTAR:
+A possibilidade de reencontro se torna inquietante.
+
+ESCOLHA:
+O desejo de recuperar o irmão entra em conflito com a necessidade de sobreviver.
+
+LINGUAGEM GRÁFICA
+
+Preserve as características da referência aprovada:
+
+• Cabeças maiores e corpos simplificados.
+• Olhos e sobrancelhas com grande capacidade de expressão.
+• Contornos escuros e legíveis.
+• Cores predominantemente chapadas.
+• Sombras simples, com poucos tons.
+• Cabelo organizado em massas desenhadas.
+• Figurinos reconhecíveis, com poucos detalhes.
+• Silhuetas claras mesmo em tela pequena.
+
+Evite pele texturizada, fios de cabelo individuais, materiais fotorrealistas, iluminação volumétrica complexa e aparência de bonecos 3D.
+
+ANIMAÇÃO DOS PERSONAGENS
+
+O episódio deve apresentar personagens atuando nas cenas.
+
+Priorize movimentos simples, claros e ligados à história:
+
+• Olhos procurando algo no terreno.
+• Sobrancelhas e boca reagindo à perda.
+• Cabeça virando em direção à luz.
+• Mão apertando a alça da mochila.
+• Passos durante a travessia.
+• Braço levantando para bater no vidro.
+• Caio virando o rosto.
+• Mão puxando a cadeira.
+• Lia olhando para o ônibus.
+• Mão se aproximando da maçaneta.
+
+Use antecipação, pequenas pausas e mudanças de pose para tornar as ações compreensíveis.
+
+Expressões podem ser exageradas, mas precisam corresponder à emoção da cena. Evite caretas cômicas em momentos de perda ou tensão.
+
+A economia visual deve vir da simplicidade dos desenhos e da seleção dos movimentos. Não substitua as ações centrais por uma sequência de imagens paradas com aproximações de câmera.
+
+PROFUNDIDADE 2.5D
+
+Quando ajudar a cena, separe elementos desenhados em primeiro plano, plano dos personagens e fundo.
+
+Use movimentos discretos entre essas camadas para criar profundidade. Preserve o aspecto 2D de todos os elementos.
+
+Não dependa de modelagem tridimensional para personagens, veículos ou cenários.
+
+CONTRASTE DE AMBIENTES
+
+EXTERIOR:
+Cores mais frias e discretas, sombras gráficas simples e sensação de esvaziamento.
+
+INTERIOR:
+Cores domésticas mais quentes, comida recém-servida e aparente tranquilidade.
+
+A imagem deve permitir ver rostos, gestos e informações importantes. Atmosfera escura não pode comprometer a compreensão.
+
+MOVIMENTOS DE CÂMERA
+
+Prefira movimentos motivados:
+
+• Plano aberto para mostrar a ausência do prédio.
+• Plano próximo para a reação de Lia.
+• Enquadramento que estabeleça o terreno e o ônibus.
+• Aproximação lenta quando o prédio retorna.
+• Acompanhamento curto durante a travessia da rua.
+• Enquadramento firme para a cadeira sendo puxada.
+• Alternância entre a porta e o ônibus no encerramento.
+
+Evite movimentos complexos em todas as cenas.
+
+O reaparecimento pode ser mostrado por um corte entre dois enquadramentos iguais: primeiro a área vazia, depois o prédio presente.
+
+A luz na janela, um deslocamento de ar e a reação animada de Lia podem completar o efeito. Não é necessário criar um portal ou uma explosão.
+
+────────────────────────────
+7. NARRAÇÃO DO EPISÓDIO
+────────────────────────────
+
+Use o texto abaixo como referência principal para esta história.
+
+Faça apenas os ajustes necessários para naturalidade, duração e sincronização, preservando a ordem dos acontecimentos, o contexto e a decisão final.
+
+TEXTO DE LOCUÇÃO:
+
+“Há doze dias, Lia foi buscar o irmão. No lugar do prédio dele, encontrou um terreno vazio.
+
+Não havia escombros. A construção inteira tinha sumido durante a madrugada.
+
+Outros prédios começaram a desaparecer também. Sem encontrar o irmão, Lia se refugiou numa escola com os sobreviventes.
+
+Hoje, eles vão deixar a cidade.
+
+O último ônibus do abrigo está pronto. Lia entra na fila, mas uma luz do outro lado da rua faz ela parar.
+
+O prédio do irmão está lá outra vez.
+
+Ela atravessa a rua e se aproxima da janela do térreo.
+
+Lá dentro, o irmão está sentado com os vizinhos. Há comida quente na mesa. Eles jantam como se nada tivesse acontecido.
+
+Lia bate no vidro.
+
+Ninguém responde.
+
+Então o irmão olha para ela e puxa a única cadeira vazia.
+
+A buzina faz Lia se virar. O ônibus está começando a andar.
+
+Ela pode entrar e tentar buscar o irmão. Mas, se demorar, vai ficar para trás.
+
+Ou pode pegar o ônibus… e deixá-lo ali.
+
+O que Lia deve fazer?
+
+A: entrar no prédio.
+
+B: pegar o ônibus.
+
+Comente A ou B. A escolha mais votada vira a continuação.”
+
+DIREÇÃO DA VOZ
+
+A leitura deve soar como uma história sendo contada para uma pessoa.
+
+No início, apresentar a perda com clareza e proximidade. O público precisa acompanhar o acontecimento antes de receber novas informações.
+
+Ler as frases de cada parágrafo como pensamentos conectados. Não inserir uma pausa dramática a cada ponto.
+
+Dar mais espaço a três momentos:
+
+• Lia encontra o terreno vazio.
+• Lia reconhece o prédio que voltou.
+• O irmão puxa a cadeira.
+
+Na frase “Hoje, eles vão deixar a cidade”, transmitir que Lia está prestes a partir sem o irmão.
+
+A partir do retorno, permitir uma breve sensação de esperança. O comportamento das pessoas no jantar deve transformar essa esperança em dúvida.
+
+Aumentar a urgência quando o ônibus começar a se mover, mantendo a fala inteligível.
+
+Ler as alternativas com o mesmo peso. A voz não pode indicar que uma opção é a correta.
+
+As quebras de linha orientam a interpretação. Não devem ser pronunciadas nem gerar automaticamente pausas longas.
+
+────────────────────────────
+8. ESTRUTURA E TEMPO DAS CENAS
+────────────────────────────
+
+Use esta distribuição como ponto de partida. Ajuste os cortes depois de ouvir a locução.
+
+Todas as cenas devem seguir a referência cartoon 2D aprovada.
+
+0–16 SEGUNDOS — A PERDA
+
+Mostrar Lia chegando ao local onde deveria estar o prédio do irmão.
+
+Ela interrompe os passos diante do terreno de terra lisa. Seu olhar percorre o espaço, procurando a construção. A expressão muda de expectativa para confusão e preocupação.
+
+Um celular com uma imagem desenhada dela ao lado do irmão pode estabelecer o vínculo sem exigir diálogo ou texto pequeno na tela.
+
+A narração explica que ela tinha ido buscá-lo.
+
+Não mostrar o prédio retornado nesta abertura.
+
+16–28 SEGUNDOS — A SOBREVIVÊNCIA
+
+Mostrar outros espaços vazios entre as construções e fazer a passagem para a escola usada como abrigo.
+
+Lia está entre colchões, mochilas e poucos sobreviventes. Usar pequenos gestos para mostrar o cotidiano: ajeitar a mochila, levantar-se ou acompanhar alguém com o olhar.
+
+A imagem deve explicar sua situação atual enquanto a narração conecta os desaparecimentos à chegada ao abrigo.
+
+Marcar visualmente a passagem dos dias, preservando sua identidade e seus objetos pessoais.
+
+28–42 SEGUNDOS — A PARTIDA INTERROMPIDA
+
+Mostrar o motorista esperando, o motor ligado e os sobreviventes embarcando.
+
+Lia coloca a mochila nas costas e entra na fila.
+
+Estabelecer o espaço vazio do outro lado da rua antes da revelação.
+
+Quando ela percebe uma luz, interrompe o movimento e vira a cabeça. Ao olhar novamente, o prédio está presente.
+
+Mostrar a mudança em seus olhos, sobrancelhas e postura antes de fazê-la correr.
+
+42–56 SEGUNDOS — O REENCONTRO POSSÍVEL
+
+Lia atravessa a rua e chega à janela do térreo.
+
+Animar passos e o movimento simples dos braços, mantendo a mochila presa ao corpo.
+
+Revelar o irmão e os vizinhos à mesa. Mostrar a comida quente por meio de pequenas linhas de vapor animadas.
+
+A imagem deve sustentar a esperança de Lia antes de introduzir o comportamento estranho.
+
+56–70 SEGUNDOS — A ESPERA
+
+Lia levanta a mão e bate no vidro. As pessoas continuam como estavam.
+
+Após um breve intervalo, o irmão vira o rosto, olha para ela e puxa a cadeira vazia.
+
+A mão, a cadeira e o deslocamento no chão devem ser claramente compreensíveis.
+
+Evitar cortes rápidos nesse gesto. O público precisa perceber a cadeira e entender o convite.
+
+70–86 SEGUNDOS — O PREÇO DA ESCOLHA
+
+A buzina interrompe a atenção de Lia.
+
+Mostrar o ônibus começando a avançar, ainda próximo o suficiente para ser alcançado. Representar seu movimento de forma simples e coerente com o cenário desenhado.
+
+Lia olha para o irmão, depois para o ônibus. Aproxima a mão da maçaneta sem abrir a porta.
+
+A narração explica o custo das duas possibilidades.
+
+86–100 SEGUNDOS — A DECISÃO DO PÚBLICO
+
+Manter Lia entre a entrada do prédio e a possibilidade de partir.
+
+Sua expressão deve mostrar indecisão. Pequenos movimentos de olhar ou postura podem sustentar o plano sem resolver a escolha.
+
+Exibir:
+
+A — ENTRAR NO PRÉDIO
+B — PEGAR O ÔNIBUS
+
+Encerrar antes da decisão.
+
+Reservar tempo para ler as alternativas e compreender que a votação determinará a continuação.
+
+Esses intervalos são estimativas de montagem. O tempo final deve ser calculado com o áudio real.
+
+Se o texto não couber com clareza, ajustar a locução ou a distribuição dos planos. Não acelerar a voz de forma artificial.
+
+────────────────────────────
+9. DESCRIÇÕES PARA GERAR AS CENAS
+────────────────────────────
+
+Prepare uma descrição independente para cada plano.
+
+Cada descrição deve conter:
+
+• Identificação da cena.
+• Momento da história: início dos desaparecimentos ou presente.
+• Referência explícita à imagem cartoon 2D aprovada.
+• Personagens presentes e suas referências de identidade.
+• Local e posição dos elementos.
+• Enquadramento.
+• Uma ação principal.
+• Expressão inicial e expressão final.
+• Movimento do personagem.
+• Movimento de câmera, quando necessário.
+• Cores e atmosfera.
+• Estado inicial e estado final.
+• Duração aproximada.
+• Som correspondente.
+• Restrições específicas de continuidade.
+
+Não dependa apenas de expressões como “a mesma mulher da cena anterior”. Inclua a referência de identidade de Lia nos planos em que ela aparecer.
+
+Descreva ações observáveis. Em vez de pedir “uma sensação assustadora”, descreva pessoas que continuam sem responder depois que alguém bate no vidro.
+
+Em planos curtos, evite solicitar várias ações sucessivas.
+
+Divida a corrida, a batida no vidro e a reação de Caio em planos diferentes.
+
+Quando houver dificuldade com a janela, use ângulos simples e planos separados de Lia e do interior. O vidro pode ser representado por poucas marcas gráficas, sem reflexos complexos.
+
+A folha aprovada é uma referência de desenho, não um quadro pronto do episódio. Não inserir suas colunas, nomes ou estudos de expressão dentro das cenas.
+
+Gere as cenas sem legendas ou textos narrativos incorporados à imagem. Acrescente a tipografia durante a edição.
+
+RESTRIÇÕES VISUAIS
+
+Evite:
+
+• Mudança para realismo, semirrealismo ou 3D.
+• Alteração dos rostos entre planos.
+• Mudança na proporção entre cabeça e corpo.
+• Troca involuntária de figurino.
+• Personagens duplicados.
+• Mãos ou membros deformados.
+• Objetos atravessando corpos e superfícies.
+• Pessoas flutuando ou pés deslizando.
+• Personagens inteiros sendo apenas arrastados pelo quadro para simular caminhada.
+• Vapor excessivo cobrindo os rostos.
+• Pessoas à mesa reagindo antes de Caio.
+• A cadeira aparecendo em posições contraditórias.
+• O prédio aparecendo antes da revelação prevista.
+• A porta abrindo antes da votação.
+• O ônibus ficando inalcançável antes da decisão.
+• Textos ilegíveis gerados dentro das imagens.
+
+────────────────────────────
+10. SOM, MÚSICA E LEGENDAS
+────────────────────────────
+
+NARRAÇÃO
+
+A voz deve ser o elemento sonoro principal.
+
+Use uma voz consistente durante todo o episódio. Evite mudanças de timbre entre trechos e cortes que interrompam palavras ou respirações de forma perceptível.
+
+FALAS DOS PERSONAGENS
+
+Neste episódio, os personagens não precisam falar. Trabalhe suas emoções por gestos e expressões.
+
+Não anime a boca dos personagens como se estivessem pronunciando a narração.
+
+Se outra história exigir diálogo, identifique cada personagem, preserve sua voz e sincronize o áudio com formas de boca simples e coerentes com o desenho.
+
+AMBIENTE E EFEITOS
+
+Use sons reconhecíveis e posicionados na ação:
+
+• Vento no terreno vazio.
+• Ambiente discreto do abrigo.
+• Motor do ônibus.
+• Passos de Lia.
+• Batidas no vidro.
+• Atrito da cadeira no chão.
+• Buzina.
+• Ruído discreto da maçaneta.
+
+No começo, deixe espaço para a narração e para a percepção da perda.
+
+No retorno do prédio, altere discretamente a atmosfera sonora.
+
+O som da cadeira pode receber destaque. Reduza a música naquele momento para que o gesto seja percebido.
+
+Não use efeitos intensos em todos os cortes. Evite efeitos cômicos automáticos apenas porque o visual é cartoon.
+
+MÚSICA
+
+Prefira uma trilha discreta, sem letra competindo com a narração.
+
+A progressão musical deve acompanhar a história: perda, sobrevivência, esperança e dúvida.
+
+O ritmo da narrativa orienta a edição. Não é necessário cortar todas as imagens no ritmo da música.
+
+Mantenha a voz compreensível em alto-falantes de celular. Evite distorção, picos desagradáveis e graves que encubram a fala.
+
+LEGENDAS
+
+Crie legendas a partir da locução final.
+
+Use português correto, contraste forte e blocos curtos, com no máximo duas linhas quando possível.
+
+Escolha uma tipografia simples e legível, compatível com o universo cartoon.
+
+Mantenha o texto afastado das bordas e de áreas que possam ser cobertas pela interface da plataforma.
+
+Não cubra os rostos, a mão na maçaneta ou a cadeira vazia.
+
+Destaque palavras apenas quando isso ajudar a compreensão. Evite animação em todas as palavras.
+
+As opções finais devem aparecer assim:
+
+A — ENTRAR NO PRÉDIO
+B — PEGAR O ÔNIBUS
+
+A chamada deve pedir somente a escolha do público.
+
+────────────────────────────
+11. PARTICIPAÇÃO E CONTINUAÇÃO
+────────────────────────────
+
+As opções precisam conduzir a acontecimentos diferentes.
+
+OPÇÃO A
+
+Lia permanece na região e atravessa a entrada do prédio.
+
+A continuação deve explorar o contato com o irmão e o custo de perder a evacuação.
+
+OPÇÃO B
+
+Lia embarca.
+
+A continuação deve acompanhar a fuga, a separação do irmão e informações que possam surgir com os sobreviventes.
+
+Essas são direções de desenvolvimento. Não são episódios já escritos nem acontecimentos mostrados no primeiro vídeo.
+
+Não faça as duas opções levarem imediatamente à mesma cena.
+
+Não apresente nenhuma delas como garantia de segurança.
+
+Não invente resultado de votação. Aguarde o resultado fornecido pelo criador antes de estabelecer qual caminho virou parte oficial da história.
+
+Não acrescente novos pedidos de engajamento ao encerramento. A decisão narrativa é a chamada principal.
+
+────────────────────────────
+12. USO DAS FERRAMENTAS DISPONÍVEIS
+────────────────────────────
+
+Utilize ferramentas conforme sua função real:
+
+• Ferramentas de imagem: referências, cenários e elementos desenhados.
+• Ferramentas de vídeo ou animação: movimentos dos personagens e ações das cenas.
+• Ferramentas de voz: locução e eventuais diálogos.
+• Editor ou Remotion: composição, animação de elementos disponíveis, montagem, duração, legendas e áudio.
+• Ferramentas de exportação: arquivo final no formato solicitado.
+
+Priorize uma produção visual simples e consistente:
+
+• Reutilizar os desenhos aprovados dos personagens.
+• Preparar variações de expressão e pose quando necessário.
+• Separar partes em camadas quando isso ajudar a animar.
+• Usar cenários desenhados com poucos elementos.
+• Reservar movimento para ações que contam a história.
+• Usar profundidade 2.5D discretamente.
+
+A folha de referência não é, por si só, um personagem articulado. Se a técnica escolhida exigir partes separadas, preparar esses elementos antes de animar.
+
+A montagem em Remotion não substitui, por si só, a criação de desenhos, poses ou cenas animadas.
+
+Movimentos sobre imagens estáticas podem ser usados em planos adequados, como a cidade vazia.
+
+Os gestos centrais, especialmente a batida no vidro, o olhar de Caio e a cadeira sendo puxada, precisam de movimento coerente.
+
+Se apenas imagens estáticas estiverem disponíveis, identifique a entrega como uma versão com imagens animadas. Não apresente essa versão como se todas as cenas tivessem atuação.
+
+Se o ambiente limitar a duração de cada geração, produza planos separados e monte a sequência, preservando referências e continuidade.
+
+Não presuma que uma única ferramenta conseguirá produzir todo o episódio a partir de uma descrição única.
+
+Não conecte contas, contrate serviços ou publique o vídeo como parte da produção.
+
+────────────────────────────
+13. ORDEM DE PRODUÇÃO E ENTREGAS
+────────────────────────────
+
+Execute em uma ordem que reduza retrabalho:
+
+1. Abrir e conferir a referência visual aprovada.
+2. Consolidar a história e as informações que permanecem em mistério.
+3. Conferir a sequência causal dos acontecimentos.
+4. Fixar personagens, figurinos e geografia conforme a referência.
+5. Finalizar a narração.
+6. Produzir ou preparar a voz.
+7. Medir a duração real do áudio.
+8. Ajustar o roteiro de cenas.
+9. Preparar cenários, expressões, poses e descrições individuais dos planos.
+10. Preparar as camadas ou materiais exigidos pela técnica de animação.
+11. Produzir as ações e cenas possíveis.
+12. Montar imagem, voz, efeitos e música.
+13. Sincronizar as legendas.
+14. Revisar a prévia e corrigir problemas.
+15. Exportar, quando houver capacidade para isso.
+
+ENTREGUE:
+
+• Resumo do episódio.
+• Identificação da referência visual utilizada.
+• Fichas de personagens coerentes com a imagem aprovada.
+• Texto limpo de narração, separado das orientações de interpretação.
+• Roteiro de cenas com duração, imagem, ação e som.
+• Descrições individuais utilizáveis para geração e animação.
+• Orientações ou arquivos de legendas.
+• Prévia ou vídeo final, conforme o que tiver sido realmente produzido.
+• Registro breve de continuidade para o próximo episódio.
+
+Quando a exportação estiver disponível, use como referência:
+
+• Vídeo vertical de 1080 × 1920.
+• Taxa de quadros consistente com o projeto e os materiais.
+• MP4 com vídeo H.264 e áudio AAC.
+• Versão principal com narração, efeitos, música e legendas.
+• Versão sem música, preservando narração e efeitos, quando possível.
+• Arquivo de legendas separado, quando possível.
+
+Se uma etapa não puder ser executada, entregue os materiais preparados e indique o elemento que falta.
+
+Não substitua um arquivo inexistente por uma afirmação de conclusão.
+
+────────────────────────────
+14. REVISÃO E MEMÓRIA DA HISTÓRIA
+────────────────────────────
+
+Antes da entrega, revise:
+
+REFERÊNCIA VISUAL
+Os personagens mantêm o desenho, as proporções, os figurinos e a paleta da imagem aprovada?
+
+UNIDADE DE ESTILO
+Personagens, cenários, objetos e efeitos pertencem ao mesmo universo cartoon 2D?
+
+ABERTURA
+O público entende quem é Lia, quem ela procura e o que encontrou?
+
+CONTEXTO
+A passagem do desaparecimento para o abrigo e depois para a evacuação está clara?
+
+CLAREZA
+É possível entender o desejo de Lia e o custo de cada opção?
+
+CURIOSIDADE
+O interesse surge dos acontecimentos mostrados, sem depender de promessas vagas?
+
+EMOÇÃO
+O vínculo com o irmão torna a decisão importante?
+
+CONTINUIDADE
+Rostos, proporções, roupas, posições, cores e objetos permanecem coerentes?
+
+ANIMAÇÃO
+As ações importantes estão sendo realizadas pelos personagens, com mudanças de pose, olhar e expressão?
+
+RITMO
+Há tempo para compreender a perda, o retorno, o jantar, a cadeira e a partida do ônibus?
+
+NARRAÇÃO
+As frases estão conectadas e acompanham o que aparece na tela?
+
+ÁUDIO
+A voz está natural, inteligível e sincronizada?
+
+LEGENDAS
+O texto está correto, legível e alinhado ao áudio?
+
+ENCERRAMENTO
+As duas opções estão claras e Lia ainda não escolheu?
+
+Não avalie apenas quadros isolados. Quando houver vídeo, assista à sequência completa com som para verificar se os planos funcionam juntos.
+
+Ao terminar, registre:
+
+• O que aconteceu no episódio.
+• O que Lia sabe.
+• O que o público viu.
+• O que continua sem explicação.
+• Onde cada personagem estava no último plano.
+• A referência visual aprovada e os elementos que devem permanecer.
+• As expressões, poses e cenários que podem ser reutilizados.
+• As opções apresentadas.
+• O estado da votação.
+• As consequências estabelecidas pela escolha vencedora, somente quando esse resultado existir.
+
+Para novas histórias, preserve esta estrutura de trabalho e adapte o conteúdo ao bloco de entrada.
+
+Comece pelo episódio informado. Tome decisões criativas compatíveis com a premissa para preencher detalhes secundários.
+
+Preserve a clareza da abertura, a relação entre os acontecimentos, o conflito central, a identidade cartoon dos personagens, a atuação animada e o poder real da escolha do público.

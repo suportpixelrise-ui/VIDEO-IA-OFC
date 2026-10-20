@@ -1,0 +1,1222 @@
+{
+  "fps": 30,
+  "duration": 119.12,
+  "durationInFrames": 3574,
+  "voice": "Microsoft Maria Desktop (Windows, pt-BR, feminina, síntese local)",
+  "segments": [
+    {
+      "id": "00",
+      "text": "Há doze dias, Lia foi buscar o irmão. No lugar do prédio dele, encontrou um terreno vazio.",
+      "pause_after": 0.6,
+      "start": 0.8,
+      "end": 9.841770833333333,
+      "duration": 9.041770833333333,
+      "words": [
+        {
+          "text": "Há",
+          "start": 0.9
+        },
+        {
+          "text": "doze",
+          "start": 1.0174454698502036
+        },
+        {
+          "text": "dias",
+          "start": 1.4815827567986042
+        },
+        {
+          "text": "Lia",
+          "start": 2.3673094363272185
+        },
+        {
+          "text": "foi",
+          "start": 2.690663946815439
+        },
+        {
+          "text": "buscar",
+          "start": 2.9788701967386366
+        },
+        {
+          "text": "o",
+          "start": 3.5234547845214257
+        },
+        {
+          "text": "irmão",
+          "start": 3.621879400813498
+        },
+        {
+          "text": "No",
+          "start": 5.148053872715878
+        },
+        {
+          "text": "lugar",
+          "start": 5.281484448922915
+        },
+        {
+          "text": "do",
+          "start": 5.734996620666773
+        },
+        {
+          "text": "prédio",
+          "start": 5.881376556029345
+        },
+        {
+          "text": "dele",
+          "start": 6.467844968480038
+        },
+        {
+          "text": "encontrou",
+          "start": 7.216346387799994
+        },
+        {
+          "text": "um",
+          "start": 7.886582449586493
+        },
+        {
+          "text": "terreno",
+          "start": 8.04761935190533
+        },
+        {
+          "text": "vazio",
+          "start": 8.620000000000001
+        }
+      ]
+    },
+    {
+      "id": "01",
+      "text": "Não havia escombros. A construção inteira tinha sumido durante a madrugada.",
+      "pause_after": 0.5,
+      "start": 10.441770833333333,
+      "end": 17.8719375,
+      "duration": 7.430166666666667,
+      "words": [
+        {
+          "text": "Não",
+          "start": 10.541770833333333
+        },
+        {
+          "text": "havia",
+          "start": 10.798771288499468
+        },
+        {
+          "text": "escombros",
+          "start": 11.199718034061599
+        },
+        {
+          "text": "A",
+          "start": 13.292872335381581
+        },
+        {
+          "text": "construção",
+          "start": 13.395061684494006
+        },
+        {
+          "text": "inteira",
+          "start": 14.353618807844029
+        },
+        {
+          "text": "tinha",
+          "start": 14.973464051357912
+        },
+        {
+          "text": "sumido",
+          "start": 15.40314998672432
+        },
+        {
+          "text": "durante",
+          "start": 16.046777660825366
+        },
+        {
+          "text": "a",
+          "start": 16.640086718631466
+        },
+        {
+          "text": "madrugada",
+          "start": 16.701770833333335
+        }
+      ]
+    },
+    {
+      "id": "02",
+      "text": "Outros prédios começaram a desaparecer também. Sem encontrar o irmão, Lia se refugiou numa escola com os sobreviventes.",
+      "pause_after": 0.4,
+      "start": 18.3719375,
+      "end": 29.367375000000003,
+      "duration": 10.9954375,
+      "words": [
+        {
+          "text": "Outros",
+          "start": 18.471937500000003
+        },
+        {
+          "text": "prédios",
+          "start": 19.04777219915783
+        },
+        {
+          "text": "começaram",
+          "start": 19.764140961463134
+        },
+        {
+          "text": "a",
+          "start": 20.6137446146571
+        },
+        {
+          "text": "desaparecer",
+          "start": 20.691835758960327
+        },
+        {
+          "text": "também.",
+          "start": 21.803009749538713
+        },
+        {
+          "text": "Sem",
+          "start": 23.50476676678418
+        },
+        {
+          "text": "encontrar",
+          "start": 23.877674478280817
+        },
+        {
+          "text": "o",
+          "start": 24.596143002468793
+        },
+        {
+          "text": "irmão",
+          "start": 24.700931119280288
+        },
+        {
+          "text": "Lia",
+          "start": 25.535536473312305
+        },
+        {
+          "text": "se",
+          "start": 25.83865209937533
+        },
+        {
+          "text": "refugiou",
+          "start": 26.04272895663894
+        },
+        {
+          "text": "numa",
+          "start": 26.786344629088454
+        },
+        {
+          "text": "escola",
+          "start": 27.115257329710033
+        },
+        {
+          "text": "com",
+          "start": 27.76178401225119
+        },
+        {
+          "text": "os",
+          "start": 28.028853725994992
+        },
+        {
+          "text": "sobreviventes",
+          "start": 28.171937500000002
+        }
+      ]
+    },
+    {
+      "id": "03",
+      "text": "Hoje, eles vão deixar a cidade.",
+      "pause_after": 0.5,
+      "start": 29.767375,
+      "end": 33.36429166666667,
+      "duration": 3.5969166666666665,
+      "words": [
+        {
+          "text": "Hoje",
+          "start": 29.867375000000003
+        },
+        {
+          "text": "eles",
+          "start": 30.733338353692396
+        },
+        {
+          "text": "vão",
+          "start": 31.148607648528596
+        },
+        {
+          "text": "deixar",
+          "start": 31.47492636035536
+        },
+        {
+          "text": "a",
+          "start": 32.078868614658525
+        },
+        {
+          "text": "cidade",
+          "start": 32.167375
+        }
+      ]
+    },
+    {
+      "id": "04",
+      "text": "O último ônibus do abrigo está pronto. Lia entra na fila, mas uma luz do outro lado da rua faz ela parar.",
+      "pause_after": 0.55,
+      "start": 33.86429166666667,
+      "end": 43.911791666666666,
+      "duration": 10.0475,
+      "words": [
+        {
+          "text": "O",
+          "start": 33.96429166666667
+        },
+        {
+          "text": "último",
+          "start": 34.09129013165663
+        },
+        {
+          "text": "ônibus",
+          "start": 34.65366478144892
+        },
+        {
+          "text": "do",
+          "start": 35.19233619269207
+        },
+        {
+          "text": "abrigo",
+          "start": 35.338042780354016
+        },
+        {
+          "text": "está",
+          "start": 35.936702705857726
+        },
+        {
+          "text": "pronto",
+          "start": 36.29347650119688
+        },
+        {
+          "text": "Lia",
+          "start": 37.95897065635097
+        },
+        {
+          "text": "entra",
+          "start": 38.270599913856955
+        },
+        {
+          "text": "na",
+          "start": 38.672471123294585
+        },
+        {
+          "text": "fila",
+          "start": 38.835519245322516
+        },
+        {
+          "text": "mas",
+          "start": 39.66343614009382
+        },
+        {
+          "text": "uma",
+          "start": 40.006025691291235
+        },
+        {
+          "text": "luz",
+          "start": 40.23834570331369
+        },
+        {
+          "text": "do",
+          "start": 40.578296325368456
+        },
+        {
+          "text": "outro",
+          "start": 40.774189690475424
+        },
+        {
+          "text": "lado",
+          "start": 41.205089120482185
+        },
+        {
+          "text": "da",
+          "start": 41.649371691140956
+        },
+        {
+          "text": "rua",
+          "start": 41.805633995373505
+        },
+        {
+          "text": "faz",
+          "start": 42.09506797384042
+        },
+        {
+          "text": "ela",
+          "start": 42.46277447562769
+        },
+        {
+          "text": "parar",
+          "start": 42.74429166666667
+        }
+      ]
+    },
+    {
+      "id": "05",
+      "text": "O prédio do irmão está lá outra vez.",
+      "pause_after": 0.9,
+      "start": 44.46179166666667,
+      "end": 48.214645833333336,
+      "duration": 3.752854166666667,
+      "words": [
+        {
+          "text": "O",
+          "start": 44.56179166666667
+        },
+        {
+          "text": "prédio",
+          "start": 44.66924184692894
+        },
+        {
+          "text": "do",
+          "start": 45.252640285976526
+        },
+        {
+          "text": "irmão",
+          "start": 45.38893876860399
+        },
+        {
+          "text": "está",
+          "start": 45.8464669964872
+        },
+        {
+          "text": "lá",
+          "start": 46.243959568096884
+        },
+        {
+          "text": "outra",
+          "start": 46.43610290631645
+        },
+        {
+          "text": "vez",
+          "start": 47.02179166666667
+        }
+      ]
+    },
+    {
+      "id": "06",
+      "text": "Ela atravessa a rua e se aproxima da janela do térreo.",
+      "pause_after": 0.3,
+      "start": 49.114645833333334,
+      "end": 53.90027083333334,
+      "duration": 4.785625,
+      "words": [
+        {
+          "text": "Ela",
+          "start": 49.214645833333336
+        },
+        {
+          "text": "atravessa",
+          "start": 49.497063370099056
+        },
+        {
+          "text": "a",
+          "start": 50.349792757752425
+        },
+        {
+          "text": "rua",
+          "start": 50.4455636609014
+        },
+        {
+          "text": "e",
+          "start": 50.74920976830439
+        },
+        {
+          "text": "se",
+          "start": 50.81992320337238
+        },
+        {
+          "text": "aproxima",
+          "start": 51.041320716320016
+        },
+        {
+          "text": "da",
+          "start": 51.78596856853704
+        },
+        {
+          "text": "janela",
+          "start": 51.952452906754
+        },
+        {
+          "text": "do",
+          "start": 52.554365278316304
+        },
+        {
+          "text": "térreo",
+          "start": 52.714645833333336
+        }
+      ]
+    },
+    {
+      "id": "07",
+      "text": "Lá dentro, o irmão está sentado com os vizinhos. Há comida quente na mesa. Eles jantam como se nada tivesse acontecido.",
+      "pause_after": 0.45,
+      "start": 54.200270833333335,
+      "end": 66.05070833333333,
+      "duration": 11.8504375,
+      "words": [
+        {
+          "text": "Lá",
+          "start": 54.300270833333336
+        },
+        {
+          "text": "dentro",
+          "start": 54.48812386979849
+        },
+        {
+          "text": "o",
+          "start": 55.36939773758645
+        },
+        {
+          "text": "irmão",
+          "start": 55.48305100842122
+        },
+        {
+          "text": "está",
+          "start": 55.95625042939041
+        },
+        {
+          "text": "sentado",
+          "start": 56.32205672979711
+        },
+        {
+          "text": "com",
+          "start": 57.08773619488293
+        },
+        {
+          "text": "os",
+          "start": 57.34833314807794
+        },
+        {
+          "text": "vizinhos",
+          "start": 57.49741207549229
+        },
+        {
+          "text": "Há",
+          "start": 59.39913896595896
+        },
+        {
+          "text": "comida",
+          "start": 59.49818521949174
+        },
+        {
+          "text": "quente",
+          "start": 60.13769111319823
+        },
+        {
+          "text": "na",
+          "start": 60.62292555174514
+        },
+        {
+          "text": "mesa",
+          "start": 60.78379685525379
+        },
+        {
+          "text": "Eles",
+          "start": 62.41051388841019
+        },
+        {
+          "text": "jantam",
+          "start": 62.74074894734726
+        },
+        {
+          "text": "como",
+          "start": 63.20123395458515
+        },
+        {
+          "text": "se",
+          "start": 63.54098055967234
+        },
+        {
+          "text": "nada",
+          "start": 63.75557268761058
+        },
+        {
+          "text": "tivesse",
+          "start": 64.22838388220629
+        },
+        {
+          "text": "acontecido",
+          "start": 64.86027083333333
+        }
+      ]
+    },
+    {
+      "id": "08",
+      "text": "Lia bate no vidro.",
+      "pause_after": 0.7,
+      "start": 66.50070833333334,
+      "end": 68.93183333333333,
+      "duration": 2.431125,
+      "words": [
+        {
+          "text": "Lia",
+          "start": 66.60070833333333
+        },
+        {
+          "text": "bate",
+          "start": 66.99775042894031
+        },
+        {
+          "text": "no",
+          "start": 67.53289159701696
+        },
+        {
+          "text": "vidro",
+          "start": 67.74070833333333
+        }
+      ]
+    },
+    {
+      "id": "09",
+      "text": "Ninguém responde.",
+      "pause_after": 1.0,
+      "start": 69.63183333333333,
+      "end": 71.99002083333333,
+      "duration": 2.3581875,
+      "words": [
+        {
+          "text": "Ninguém",
+          "start": 69.73183333333333
+        },
+        {
+          "text": "responde",
+          "start": 70.79183333333333
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "text": "Então o irmão olha para ela e puxa a única cadeira vazia.",
+      "pause_after": 1.2,
+      "start": 72.99002083333333,
+      "end": 78.2365625,
+      "duration": 5.246541666666666,
+      "words": [
+        {
+          "text": "Então",
+          "start": 73.09002083333333
+        },
+        {
+          "text": "o",
+          "start": 73.56439497038507
+        },
+        {
+          "text": "irmão",
+          "start": 73.66727009632886
+        },
+        {
+          "text": "olha",
+          "start": 74.14174324697632
+        },
+        {
+          "text": "para",
+          "start": 74.50764798992657
+        },
+        {
+          "text": "ela",
+          "start": 74.85013601749115
+        },
+        {
+          "text": "e",
+          "start": 75.20183230945688
+        },
+        {
+          "text": "puxa",
+          "start": 75.31099479872833
+        },
+        {
+          "text": "a",
+          "start": 75.83150927138142
+        },
+        {
+          "text": "única",
+          "start": 75.95918730305084
+        },
+        {
+          "text": "cadeira",
+          "start": 76.42133326103226
+        },
+        {
+          "text": "vazia",
+          "start": 77.07002083333333
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "text": "A buzina faz Lia se virar. O ônibus está começando a andar.",
+      "pause_after": 0.35,
+      "start": 79.4365625,
+      "end": 85.94410416666666,
+      "duration": 6.507541666666667,
+      "words": [
+        {
+          "text": "A",
+          "start": 79.53656249999999
+        },
+        {
+          "text": "buzina",
+          "start": 79.63455623270538
+        },
+        {
+          "text": "faz",
+          "start": 80.25127818106434
+        },
+        {
+          "text": "Lia",
+          "start": 80.61891071968516
+        },
+        {
+          "text": "se",
+          "start": 80.93814654955193
+        },
+        {
+          "text": "virar",
+          "start": 81.13634259492568
+        },
+        {
+          "text": "O",
+          "start": 82.79609043710714
+        },
+        {
+          "text": "ônibus",
+          "start": 82.92548441537319
+        },
+        {
+          "text": "está",
+          "start": 83.47868568349246
+        },
+        {
+          "text": "começando",
+          "start": 83.85688099584928
+        },
+        {
+          "text": "a",
+          "start": 84.67660025037108
+        },
+        {
+          "text": "andar",
+          "start": 84.7765625
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "text": "Ela pode entrar e tentar buscar o irmão. Mas, se demorar, vai ficar para trás.",
+      "pause_after": 0.3,
+      "start": 86.29410416666666,
+      "end": 94.65016666666665,
+      "duration": 8.3560625,
+      "words": [
+        {
+          "text": "Ela",
+          "start": 86.39410416666665
+        },
+        {
+          "text": "pode",
+          "start": 86.66800329862726
+        },
+        {
+          "text": "entrar",
+          "start": 87.11514820670547
+        },
+        {
+          "text": "e",
+          "start": 87.575666637588
+        },
+        {
+          "text": "tentar",
+          "start": 87.67932317048178
+        },
+        {
+          "text": "buscar",
+          "start": 88.20835157783551
+        },
+        {
+          "text": "o",
+          "start": 88.74484100317483
+        },
+        {
+          "text": "irmão",
+          "start": 88.8422096341185
+        },
+        {
+          "text": "Mas",
+          "start": 90.36735432950712
+        },
+        {
+          "text": "se",
+          "start": 91.10496276796673
+        },
+        {
+          "text": "demorar",
+          "start": 91.35094173828323
+        },
+        {
+          "text": "vai",
+          "start": 92.29431472936356
+        },
+        {
+          "text": "ficar",
+          "start": 92.59261467486185
+        },
+        {
+          "text": "para",
+          "start": 93.11155428431059
+        },
+        {
+          "text": "trás",
+          "start": 93.45410416666665
+        }
+      ]
+    },
+    {
+      "id": "13",
+      "text": "Ou pode pegar o ônibus… e deixá-lo ali.",
+      "pause_after": 0.6,
+      "start": 94.95016666666666,
+      "end": 99.06102083333333,
+      "duration": 4.110854166666667,
+      "words": [
+        {
+          "text": "Ou",
+          "start": 95.05016666666666
+        },
+        {
+          "text": "pode",
+          "start": 95.231405534926
+        },
+        {
+          "text": "pegar",
+          "start": 95.6466590592926
+        },
+        {
+          "text": "o",
+          "start": 96.08421747012366
+        },
+        {
+          "text": "ônibus",
+          "start": 96.20507449092482
+        },
+        {
+          "text": "e",
+          "start": 97.10786243742675
+        },
+        {
+          "text": "deixá-lo",
+          "start": 97.213227361353
+        },
+        {
+          "text": "ali",
+          "start": 97.89016666666666
+        }
+      ]
+    },
+    {
+      "id": "14",
+      "text": "O que Lia deve fazer?",
+      "pause_after": 0.4,
+      "start": 99.66102083333332,
+      "end": 102.28814583333333,
+      "duration": 2.627125,
+      "words": [
+        {
+          "text": "O",
+          "start": 99.76102083333332
+        },
+        {
+          "text": "que",
+          "start": 99.89151558595701
+        },
+        {
+          "text": "Lia",
+          "start": 100.12349894911415
+        },
+        {
+          "text": "deve",
+          "start": 100.59003084445679
+        },
+        {
+          "text": "fazer",
+          "start": 101.12102083333332
+        }
+      ]
+    },
+    {
+      "id": "15",
+      "text": "A: entrar no prédio.",
+      "pause_after": 0.4,
+      "start": 102.68814583333332,
+      "end": 105.41839583333332,
+      "duration": 2.73025,
+      "words": [
+        {
+          "text": "A",
+          "start": 102.78814583333332
+        },
+        {
+          "text": "entrar",
+          "start": 103.34095736201374
+        },
+        {
+          "text": "no",
+          "start": 104.02495849227653
+        },
+        {
+          "text": "prédio",
+          "start": 104.24814583333333
+        }
+      ]
+    },
+    {
+      "id": "16",
+      "text": "B: pegar o ônibus.",
+      "pause_after": 0.4,
+      "start": 105.81839583333333,
+      "end": 108.55052083333332,
+      "duration": 2.732125,
+      "words": [
+        {
+          "text": "B",
+          "start": 105.91839583333332
+        },
+        {
+          "text": "pegar",
+          "start": 106.5900009341149
+        },
+        {
+          "text": "o",
+          "start": 107.20604371486355
+        },
+        {
+          "text": "ônibus",
+          "start": 107.35839583333333
+        }
+      ]
+    },
+    {
+      "id": "17",
+      "text": "Comente A ou B. A escolha mais votada vira a continuação.",
+      "pause_after": 0.9,
+      "start": 108.95052083333333,
+      "end": 115.22,
+      "duration": 6.269479166666667,
+      "words": [
+        {
+          "text": "Comente",
+          "start": 109.11052083333333
+        },
+        {
+          "text": "A",
+          "start": 109.7816623545036
+        },
+        {
+          "text": "ou",
+          "start": 109.88412428234882
+        },
+        {
+          "text": "B.",
+          "start": 110.07039943142007
+        },
+        {
+          "text": "A",
+          "start": 111.51291927183875
+        },
+        {
+          "text": "escolha",
+          "start": 111.62104998266197
+        },
+        {
+          "text": "mais",
+          "start": 112.30882699780504
+        },
+        {
+          "text": "votada",
+          "start": 112.74362795014514
+        },
+        {
+          "text": "vira",
+          "start": 113.50854279721304
+        },
+        {
+          "text": "a",
+          "start": 113.96665463282713
+        },
+        {
+          "text": "continuação",
+          "start": 114.05052083333332
+        }
+      ]
+    }
+  ],
+  "captions": [
+    {
+      "start": 0.9,
+      "end": 5.108053872715878,
+      "text": "Há doze dias, Lia foi buscar o irmão."
+    },
+    {
+      "start": 5.148053872715878,
+      "end": 7.176346387799994,
+      "text": "No lugar do prédio dele,"
+    },
+    {
+      "start": 7.216346387799994,
+      "end": 9.090000000000002,
+      "text": "encontrou um terreno vazio."
+    },
+    {
+      "start": 10.541770833333333,
+      "end": 13.25287233538158,
+      "text": "Não havia escombros."
+    },
+    {
+      "start": 13.292872335381581,
+      "end": 17.171770833333333,
+      "text": "A construção inteira tinha sumido durante a madrugada."
+    },
+    {
+      "start": 18.471937500000003,
+      "end": 23.46476676678418,
+      "text": "Outros prédios começaram a desaparecer também."
+    },
+    {
+      "start": 23.50476676678418,
+      "end": 25.495536473312306,
+      "text": "Sem encontrar o irmão,"
+    },
+    {
+      "start": 25.535536473312305,
+      "end": 28.641937500000004,
+      "text": "Lia se refugiou numa escola com os sobreviventes."
+    },
+    {
+      "start": 29.867375000000003,
+      "end": 32.637375,
+      "text": "Hoje, eles vão deixar a cidade."
+    },
+    {
+      "start": 33.96429166666667,
+      "end": 37.91897065635097,
+      "text": "O último ônibus do abrigo está pronto."
+    },
+    {
+      "start": 37.95897065635097,
+      "end": 42.05506797384042,
+      "text": "Lia entra na fila, mas uma luz do outro lado da rua"
+    },
+    {
+      "start": 42.09506797384042,
+      "end": 43.21429166666667,
+      "text": "faz ela parar."
+    },
+    {
+      "start": 44.56179166666667,
+      "end": 47.49179166666667,
+      "text": "O prédio do irmão está lá outra vez."
+    },
+    {
+      "start": 49.214645833333336,
+      "end": 53.184645833333335,
+      "text": "Ela atravessa a rua e se aproxima da janela do térreo."
+    },
+    {
+      "start": 54.300270833333336,
+      "end": 59.35913896595896,
+      "text": "Lá dentro, o irmão está sentado com os vizinhos."
+    },
+    {
+      "start": 59.39913896595896,
+      "end": 62.370513888410194,
+      "text": "Há comida quente na mesa."
+    },
+    {
+      "start": 62.41051388841019,
+      "end": 65.33027083333333,
+      "text": "Eles jantam como se nada tivesse acontecido."
+    },
+    {
+      "start": 66.60070833333333,
+      "end": 68.21070833333333,
+      "text": "Lia bate no vidro."
+    },
+    {
+      "start": 69.73183333333333,
+      "end": 71.26183333333333,
+      "text": "Ninguém responde."
+    },
+    {
+      "start": 73.09002083333333,
+      "end": 76.38133326103227,
+      "text": "Então o irmão olha para ela e puxa a única"
+    },
+    {
+      "start": 76.42133326103226,
+      "end": 77.54002083333333,
+      "text": "cadeira vazia."
+    },
+    {
+      "start": 79.53656249999999,
+      "end": 82.75609043710715,
+      "text": "A buzina faz Lia se virar."
+    },
+    {
+      "start": 82.79609043710714,
+      "end": 85.2465625,
+      "text": "O ônibus está começando a andar."
+    },
+    {
+      "start": 86.39410416666665,
+      "end": 90.32735432950713,
+      "text": "Ela pode entrar e tentar buscar o irmão."
+    },
+    {
+      "start": 90.36735432950712,
+      "end": 93.92410416666665,
+      "text": "Mas, se demorar, vai ficar para trás."
+    },
+    {
+      "start": 95.05016666666666,
+      "end": 98.36016666666666,
+      "text": "Ou pode pegar o ônibus… e deixá-lo ali."
+    },
+    {
+      "start": 99.76102083333332,
+      "end": 101.59102083333333,
+      "text": "O que Lia deve fazer?"
+    },
+    {
+      "start": 102.78814583333332,
+      "end": 104.71814583333332,
+      "text": "A: entrar no prédio."
+    },
+    {
+      "start": 105.91839583333332,
+      "end": 107.82839583333333,
+      "text": "B: pegar o ônibus."
+    },
+    {
+      "start": 109.11052083333333,
+      "end": 111.47291927183875,
+      "text": "Comente A ou B."
+    },
+    {
+      "start": 111.51291927183875,
+      "end": 114.52052083333334,
+      "text": "A escolha mais votada vira a continuação."
+    }
+  ],
+  "events": {
+    "reveal": 44.46179166666667,
+    "crossing": 49.114645833333334,
+    "dinner": 54.200270833333335,
+    "knock": 66.99775042894031,
+    "caio_turn": 74.14174324697632,
+    "chair": 75.31099479872833,
+    "horn": 79.5865625,
+    "bus_move": 83.42548441537319,
+    "hand": 87.29410416666666,
+    "choice": 99.66102083333332
+  },
+  "scenes": [
+    {
+      "id": "perda",
+      "title": "A perda",
+      "start": 0,
+      "end": 551,
+      "startSeconds": 0,
+      "endSeconds": 18.3719375,
+      "action": "Lia procura o irmão e encontra terra lisa."
+    },
+    {
+      "id": "abrigo",
+      "title": "Sobreviver",
+      "start": 551,
+      "end": 1016,
+      "startSeconds": 18.3719375,
+      "endSeconds": 33.86429166666667,
+      "action": "Outros vazios; abrigo em uma escola. Lia ajeita a mochila."
+    },
+    {
+      "id": "partida",
+      "title": "A última partida",
+      "start": 1016,
+      "end": 1334,
+      "startSeconds": 33.86429166666667,
+      "endSeconds": 44.46179166666667,
+      "action": "Motorista e sobreviventes aguardam. Lia entra na fila. Lote ainda vazio."
+    },
+    {
+      "id": "retorno",
+      "title": "O retorno",
+      "start": 1334,
+      "end": 1473,
+      "startSeconds": 44.46179166666667,
+      "endSeconds": 49.114645833333334,
+      "action": "Luz do outro lado da rua. Corte coincidente: o prédio reaparece. Lia reage."
+    },
+    {
+      "id": "travessia",
+      "title": "A travessia",
+      "start": 1473,
+      "end": 1626,
+      "startSeconds": 49.114645833333334,
+      "endSeconds": 54.200270833333335,
+      "action": "Lia atravessa com ciclo de pernas e braços, mochila presa."
+    },
+    {
+      "id": "jantar",
+      "title": "O jantar",
+      "start": 1626,
+      "end": 1995,
+      "startSeconds": 54.200270833333335,
+      "endSeconds": 66.50070833333334,
+      "action": "Caio sentado entre vizinhos; vapor discreto sobre a comida."
+    },
+    {
+      "id": "vidro",
+      "title": "Ninguém responde",
+      "start": 1995,
+      "end": 2190,
+      "startSeconds": 66.50070833333334,
+      "endSeconds": 72.99002083333333,
+      "action": "Lia levanta o braço e bate três vezes. Vizinhos não reagem."
+    },
+    {
+      "id": "cadeira",
+      "title": "A cadeira vazia",
+      "start": 2190,
+      "end": 2383,
+      "startSeconds": 72.99002083333333,
+      "endSeconds": 79.4365625,
+      "action": "Caio vira o rosto, alcança e desloca a cadeira vazia. Pausa."
+    },
+    {
+      "id": "onibus",
+      "title": "A buzina",
+      "start": 2383,
+      "end": 2589,
+      "startSeconds": 79.4365625,
+      "endSeconds": 86.29410416666666,
+      "action": "Motorista chama; ônibus avança pouco, ainda alcançável."
+    },
+    {
+      "id": "dilema",
+      "title": "O custo",
+      "start": 2589,
+      "end": 2990,
+      "startSeconds": 86.29410416666666,
+      "endSeconds": 99.66102083333332,
+      "action": "Lia alterna o olhar entre a porta fechada e o ônibus; mão hesita junto da maçaneta."
+    },
+    {
+      "id": "escolha",
+      "title": "A decisão do público",
+      "start": 2990,
+      "end": 3574,
+      "startSeconds": 99.66102083333332,
+      "endSeconds": 119.12,
+      "action": "As duas alternativas têm o mesmo peso; termina antes de Lia escolher."
+    }
+  ]
+}

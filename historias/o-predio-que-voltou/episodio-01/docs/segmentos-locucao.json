@@ -1,0 +1,92 @@
+[
+  {
+    "id": "00",
+    "text": "Há doze dias, Lia foi buscar o irmão. No lugar do prédio dele, encontrou um terreno vazio.",
+    "pause_after": 0.6
+  },
+  {
+    "id": "01",
+    "text": "Não havia escombros. A construção inteira tinha sumido durante a madrugada.",
+    "pause_after": 0.5
+  },
+  {
+    "id": "02",
+    "text": "Outros prédios começaram a desaparecer também. Sem encontrar o irmão, Lia se refugiou numa escola com os sobreviventes.",
+    "pause_after": 0.4
+  },
+  {
+    "id": "03",
+    "text": "Hoje, eles vão deixar a cidade.",
+    "pause_after": 0.5
+  },
+  {
+    "id": "04",
+    "text": "O último ônibus do abrigo está pronto. Lia entra na fila, mas uma luz do outro lado da rua faz ela parar.",
+    "pause_after": 0.55
+  },
+  {
+    "id": "05",
+    "text": "O prédio do irmão está lá outra vez.",
+    "pause_after": 0.9
+  },
+  {
+    "id": "06",
+    "text": "Ela atravessa a rua e se aproxima da janela do térreo.",
+    "pause_after": 0.3
+  },
+  {
+    "id": "07",
+    "text": "Lá dentro, o irmão está sentado com os vizinhos. Há comida quente na mesa. Eles jantam como se nada tivesse acontecido.",
+    "pause_after": 0.45
+  },
+  {
+    "id": "08",
+    "text": "Lia bate no vidro.",
+    "pause_after": 0.7
+  },
+  {
+    "id": "09",
+    "text": "Ninguém responde.",
+    "pause_after": 1.0
+  },
+  {
+    "id": "10",
+    "text": "Então o irmão olha para ela e puxa a única cadeira vazia.",
+    "pause_after": 1.2
+  },
+  {
+    "id": "11",
+    "text": "A buzina faz Lia se virar. O ônibus está começando a andar.",
+    "pause_after": 0.35
+  },
+  {
+    "id": "12",
+    "text": "Ela pode entrar e tentar buscar o irmão. Mas, se demorar, vai ficar para trás.",
+    "pause_after": 0.3
+  },
+  {
+    "id": "13",
+    "text": "Ou pode pegar o ônibus… e deixá-lo ali.",
+    "pause_after": 0.6
+  },
+  {
+    "id": "14",
+    "text": "O que Lia deve fazer?",
+    "pause_after": 0.4
+  },
+  {
+    "id": "15",
+    "text": "A: entrar no prédio.",
+    "pause_after": 0.4
+  },
+  {
+    "id": "16",
+    "text": "B: pegar o ônibus.",
+    "pause_after": 0.4
+  },
+  {
+    "id": "17",
+    "text": "Comente A ou B. A escolha mais votada vira a continuação.",
+    "pause_after": 0.9
+  }
+]

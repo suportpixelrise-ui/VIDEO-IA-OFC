@@ -1,0 +1,1238 @@
+[
+  {
+    "id": "00",
+    "words": [
+      {
+        "Start": 0.133875,
+        "Text": "Há",
+        "Char": 0,
+        "Count": 2
+      },
+      {
+        "Start": 0.288625,
+        "Text": "doze",
+        "Char": 3,
+        "Count": 4
+      },
+      {
+        "Start": 0.9001875,
+        "Text": "dias",
+        "Char": 8,
+        "Count": 4
+      },
+      {
+        "Start": 2.06725,
+        "Text": "Lia",
+        "Char": 14,
+        "Count": 3
+      },
+      {
+        "Start": 2.4933125,
+        "Text": "foi",
+        "Char": 18,
+        "Count": 3
+      },
+      {
+        "Start": 2.8730625,
+        "Text": "buscar",
+        "Char": 22,
+        "Count": 6
+      },
+      {
+        "Start": 3.590625,
+        "Text": "o",
+        "Char": 29,
+        "Count": 1
+      },
+      {
+        "Start": 3.7203125,
+        "Text": "irmão",
+        "Char": 31,
+        "Count": 5
+      },
+      {
+        "Start": 5.73125,
+        "Text": "No",
+        "Char": 38,
+        "Count": 2
+      },
+      {
+        "Start": 5.9070625,
+        "Text": "lugar",
+        "Char": 41,
+        "Count": 5
+      },
+      {
+        "Start": 6.504625,
+        "Text": "do",
+        "Char": 47,
+        "Count": 2
+      },
+      {
+        "Start": 6.6975,
+        "Text": "prédio",
+        "Char": 50,
+        "Count": 6
+      },
+      {
+        "Start": 7.47025,
+        "Text": "dele",
+        "Char": 57,
+        "Count": 4
+      },
+      {
+        "Start": 8.4565,
+        "Text": "encontrou",
+        "Char": 63,
+        "Count": 9
+      },
+      {
+        "Start": 9.339625,
+        "Text": "um",
+        "Char": 73,
+        "Count": 2
+      },
+      {
+        "Start": 9.5518125,
+        "Text": "terreno",
+        "Char": 76,
+        "Count": 7
+      },
+      {
+        "Start": 10.306,
+        "Text": "vazio",
+        "Char": 84,
+        "Count": 5
+      }
+    ]
+  },
+  {
+    "id": "01",
+    "words": [
+      {
+        "Start": 0.133125,
+        "Text": "Não",
+        "Char": 0,
+        "Count": 3
+      },
+      {
+        "Start": 0.4539375,
+        "Text": "havia",
+        "Char": 4,
+        "Count": 5
+      },
+      {
+        "Start": 0.9544375,
+        "Text": "escombros",
+        "Char": 10,
+        "Count": 9
+      },
+      {
+        "Start": 3.5673125,
+        "Text": "A",
+        "Char": 21,
+        "Count": 1
+      },
+      {
+        "Start": 3.694875,
+        "Text": "construção",
+        "Char": 23,
+        "Count": 10
+      },
+      {
+        "Start": 4.8914375,
+        "Text": "inteira",
+        "Char": 34,
+        "Count": 7
+      },
+      {
+        "Start": 5.6651875,
+        "Text": "tinha",
+        "Char": 42,
+        "Count": 5
+      },
+      {
+        "Start": 6.2015625,
+        "Text": "sumido",
+        "Char": 48,
+        "Count": 6
+      },
+      {
+        "Start": 7.005,
+        "Text": "durante",
+        "Char": 55,
+        "Count": 7
+      },
+      {
+        "Start": 7.745625,
+        "Text": "a",
+        "Char": 63,
+        "Count": 1
+      },
+      {
+        "Start": 7.822625,
+        "Text": "madrugada",
+        "Char": 65,
+        "Count": 9
+      }
+    ]
+  },
+  {
+    "id": "02",
+    "words": [
+      {
+        "Start": 0.13375,
+        "Text": "Outros",
+        "Char": 0,
+        "Count": 6
+      },
+      {
+        "Start": 0.853625,
+        "Text": "prédios",
+        "Char": 7,
+        "Count": 7
+      },
+      {
+        "Start": 1.7491875,
+        "Text": "começaram",
+        "Char": 15,
+        "Count": 9
+      },
+      {
+        "Start": 2.8113125,
+        "Text": "a",
+        "Char": 25,
+        "Count": 1
+      },
+      {
+        "Start": 2.9089375,
+        "Text": "desaparecer",
+        "Char": 27,
+        "Count": 11
+      },
+      {
+        "Start": 4.2980625,
+        "Text": "também.",
+        "Char": 39,
+        "Count": 7
+      },
+      {
+        "Start": 6.4255,
+        "Text": "Sem",
+        "Char": 47,
+        "Count": 3
+      },
+      {
+        "Start": 6.8916875,
+        "Text": "encontrar",
+        "Char": 51,
+        "Count": 9
+      },
+      {
+        "Start": 7.789875,
+        "Text": "o",
+        "Char": 61,
+        "Count": 1
+      },
+      {
+        "Start": 7.920875,
+        "Text": "irmão",
+        "Char": 63,
+        "Count": 5
+      },
+      {
+        "Start": 8.96425,
+        "Text": "Lia",
+        "Char": 70,
+        "Count": 3
+      },
+      {
+        "Start": 9.3431875,
+        "Text": "se",
+        "Char": 74,
+        "Count": 2
+      },
+      {
+        "Start": 9.5983125,
+        "Text": "refugiou",
+        "Char": 77,
+        "Count": 8
+      },
+      {
+        "Start": 10.5279375,
+        "Text": "numa",
+        "Char": 86,
+        "Count": 4
+      },
+      {
+        "Start": 10.939125,
+        "Text": "escola",
+        "Char": 91,
+        "Count": 6
+      },
+      {
+        "Start": 11.747375,
+        "Text": "com",
+        "Char": 98,
+        "Count": 3
+      },
+      {
+        "Start": 12.08125,
+        "Text": "os",
+        "Char": 102,
+        "Count": 2
+      },
+      {
+        "Start": 12.260125,
+        "Text": "sobreviventes",
+        "Char": 105,
+        "Count": 13
+      }
+    ]
+  },
+  {
+    "id": "03",
+    "words": [
+      {
+        "Start": 0.1416875,
+        "Text": "Hoje",
+        "Char": 0,
+        "Count": 4
+      },
+      {
+        "Start": 1.1164375,
+        "Text": "eles",
+        "Char": 6,
+        "Count": 4
+      },
+      {
+        "Start": 1.583875,
+        "Text": "vão",
+        "Char": 11,
+        "Count": 3
+      },
+      {
+        "Start": 1.9511875,
+        "Text": "deixar",
+        "Char": 15,
+        "Count": 6
+      },
+      {
+        "Start": 2.631,
+        "Text": "a",
+        "Char": 22,
+        "Count": 1
+      },
+      {
+        "Start": 2.730625,
+        "Text": "cidade",
+        "Char": 24,
+        "Count": 6
+      }
+    ]
+  },
+  {
+    "id": "04",
+    "words": [
+      {
+        "Start": 0.134,
+        "Text": "O",
+        "Char": 0,
+        "Count": 1
+      },
+      {
+        "Start": 0.3024375,
+        "Text": "último",
+        "Char": 2,
+        "Count": 6
+      },
+      {
+        "Start": 1.0483125,
+        "Text": "ônibus",
+        "Char": 9,
+        "Count": 6
+      },
+      {
+        "Start": 1.76275,
+        "Text": "do",
+        "Char": 16,
+        "Count": 2
+      },
+      {
+        "Start": 1.956,
+        "Text": "abrigo",
+        "Char": 19,
+        "Count": 6
+      },
+      {
+        "Start": 2.75,
+        "Text": "está",
+        "Char": 26,
+        "Count": 4
+      },
+      {
+        "Start": 3.2231875,
+        "Text": "pronto",
+        "Char": 31,
+        "Count": 6
+      },
+      {
+        "Start": 5.432125,
+        "Text": "Lia",
+        "Char": 39,
+        "Count": 3
+      },
+      {
+        "Start": 5.8454375,
+        "Text": "entra",
+        "Char": 43,
+        "Count": 5
+      },
+      {
+        "Start": 6.3784375,
+        "Text": "na",
+        "Char": 49,
+        "Count": 2
+      },
+      {
+        "Start": 6.5946875,
+        "Text": "fila",
+        "Char": 52,
+        "Count": 4
+      },
+      {
+        "Start": 7.69275,
+        "Text": "mas",
+        "Char": 58,
+        "Count": 3
+      },
+      {
+        "Start": 8.147125,
+        "Text": "uma",
+        "Char": 62,
+        "Count": 3
+      },
+      {
+        "Start": 8.45525,
+        "Text": "luz",
+        "Char": 66,
+        "Count": 3
+      },
+      {
+        "Start": 8.906125,
+        "Text": "do",
+        "Char": 70,
+        "Count": 2
+      },
+      {
+        "Start": 9.1659375,
+        "Text": "outro",
+        "Char": 73,
+        "Count": 5
+      },
+      {
+        "Start": 9.7374375,
+        "Text": "lado",
+        "Char": 79,
+        "Count": 4
+      },
+      {
+        "Start": 10.3266875,
+        "Text": "da",
+        "Char": 84,
+        "Count": 2
+      },
+      {
+        "Start": 10.5339375,
+        "Text": "rua",
+        "Char": 87,
+        "Count": 3
+      },
+      {
+        "Start": 10.9178125,
+        "Text": "faz",
+        "Char": 91,
+        "Count": 3
+      },
+      {
+        "Start": 11.4055,
+        "Text": "ela",
+        "Char": 95,
+        "Count": 3
+      },
+      {
+        "Start": 11.778875,
+        "Text": "parar",
+        "Char": 99,
+        "Count": 5
+      }
+    ]
+  },
+  {
+    "id": "05",
+    "words": [
+      {
+        "Start": 0.1370625,
+        "Text": "O",
+        "Char": 0,
+        "Count": 1
+      },
+      {
+        "Start": 0.274875,
+        "Text": "prédio",
+        "Char": 2,
+        "Count": 6
+      },
+      {
+        "Start": 1.023125,
+        "Text": "do",
+        "Char": 9,
+        "Count": 2
+      },
+      {
+        "Start": 1.1979375,
+        "Text": "irmão",
+        "Char": 12,
+        "Count": 5
+      },
+      {
+        "Start": 1.78475,
+        "Text": "está",
+        "Char": 18,
+        "Count": 4
+      },
+      {
+        "Start": 2.2945625,
+        "Text": "lá",
+        "Char": 23,
+        "Count": 2
+      },
+      {
+        "Start": 2.541,
+        "Text": "outra",
+        "Char": 26,
+        "Count": 5
+      },
+      {
+        "Start": 3.2921875,
+        "Text": "vez",
+        "Char": 32,
+        "Count": 3
+      }
+    ]
+  },
+  {
+    "id": "06",
+    "words": [
+      {
+        "Start": 0.13375,
+        "Text": "Ela",
+        "Char": 0,
+        "Count": 3
+      },
+      {
+        "Start": 0.4979375,
+        "Text": "atravessa",
+        "Char": 4,
+        "Count": 9
+      },
+      {
+        "Start": 1.5975625,
+        "Text": "a",
+        "Char": 14,
+        "Count": 1
+      },
+      {
+        "Start": 1.7210625,
+        "Text": "rua",
+        "Char": 16,
+        "Count": 3
+      },
+      {
+        "Start": 2.112625,
+        "Text": "e",
+        "Char": 20,
+        "Count": 1
+      },
+      {
+        "Start": 2.2038125,
+        "Text": "se",
+        "Char": 22,
+        "Count": 2
+      },
+      {
+        "Start": 2.4893125,
+        "Text": "aproxima",
+        "Char": 25,
+        "Count": 8
+      },
+      {
+        "Start": 3.4495625,
+        "Text": "da",
+        "Char": 34,
+        "Count": 2
+      },
+      {
+        "Start": 3.66425,
+        "Text": "janela",
+        "Char": 37,
+        "Count": 6
+      },
+      {
+        "Start": 4.4404375,
+        "Text": "do",
+        "Char": 44,
+        "Count": 2
+      },
+      {
+        "Start": 4.647125,
+        "Text": "térreo",
+        "Char": 47,
+        "Count": 6
+      }
+    ]
+  },
+  {
+    "id": "07",
+    "words": [
+      {
+        "Start": 0.1294375,
+        "Text": "Lá",
+        "Char": 0,
+        "Count": 2
+      },
+      {
+        "Start": 0.371375,
+        "Text": "dentro",
+        "Char": 3,
+        "Count": 6
+      },
+      {
+        "Start": 1.506375,
+        "Text": "o",
+        "Char": 11,
+        "Count": 1
+      },
+      {
+        "Start": 1.65275,
+        "Text": "irmão",
+        "Char": 13,
+        "Count": 5
+      },
+      {
+        "Start": 2.2621875,
+        "Text": "está",
+        "Char": 19,
+        "Count": 4
+      },
+      {
+        "Start": 2.7333125,
+        "Text": "sentado",
+        "Char": 24,
+        "Count": 7
+      },
+      {
+        "Start": 3.7194375,
+        "Text": "com",
+        "Char": 32,
+        "Count": 3
+      },
+      {
+        "Start": 4.0550625,
+        "Text": "os",
+        "Char": 36,
+        "Count": 2
+      },
+      {
+        "Start": 4.2470625,
+        "Text": "vizinhos",
+        "Char": 39,
+        "Count": 8
+      },
+      {
+        "Start": 6.6963125,
+        "Text": "Há",
+        "Char": 49,
+        "Count": 2
+      },
+      {
+        "Start": 6.823875,
+        "Text": "comida",
+        "Char": 52,
+        "Count": 6
+      },
+      {
+        "Start": 7.6475,
+        "Text": "quente",
+        "Char": 59,
+        "Count": 6
+      },
+      {
+        "Start": 8.2724375,
+        "Text": "na",
+        "Char": 66,
+        "Count": 2
+      },
+      {
+        "Start": 8.479625,
+        "Text": "mesa",
+        "Char": 69,
+        "Count": 4
+      },
+      {
+        "Start": 10.5746875,
+        "Text": "Eles",
+        "Char": 75,
+        "Count": 4
+      },
+      {
+        "Start": 11.0,
+        "Text": "jantam",
+        "Char": 80,
+        "Count": 6
+      },
+      {
+        "Start": 11.5930625,
+        "Text": "como",
+        "Char": 87,
+        "Count": 4
+      },
+      {
+        "Start": 12.030625,
+        "Text": "se",
+        "Char": 92,
+        "Count": 2
+      },
+      {
+        "Start": 12.307,
+        "Text": "nada",
+        "Char": 95,
+        "Count": 4
+      },
+      {
+        "Start": 12.9159375,
+        "Text": "tivesse",
+        "Char": 100,
+        "Count": 7
+      },
+      {
+        "Start": 13.72975,
+        "Text": "acontecido",
+        "Char": 108,
+        "Count": 10
+      }
+    ]
+  },
+  {
+    "id": "08",
+    "words": [
+      {
+        "Start": 0.1370625,
+        "Text": "Lia",
+        "Char": 0,
+        "Count": 3
+      },
+      {
+        "Start": 0.5641875,
+        "Text": "bate",
+        "Char": 4,
+        "Count": 4
+      },
+      {
+        "Start": 1.139875,
+        "Text": "no",
+        "Char": 9,
+        "Count": 2
+      },
+      {
+        "Start": 1.3634375,
+        "Text": "vidro",
+        "Char": 12,
+        "Count": 5
+      }
+    ]
+  },
+  {
+    "id": "09",
+    "words": [
+      {
+        "Start": 0.1294375,
+        "Text": "Ninguém",
+        "Char": 0,
+        "Count": 7
+      },
+      {
+        "Start": 0.8054375,
+        "Text": "responde",
+        "Char": 8,
+        "Count": 8
+      }
+    ]
+  },
+  {
+    "id": "10",
+    "words": [
+      {
+        "Start": 0.133375,
+        "Text": "Então",
+        "Char": 0,
+        "Count": 5
+      },
+      {
+        "Start": 0.73225,
+        "Text": "o",
+        "Char": 6,
+        "Count": 1
+      },
+      {
+        "Start": 0.862125,
+        "Text": "irmão",
+        "Char": 8,
+        "Count": 5
+      },
+      {
+        "Start": 1.461125,
+        "Text": "olha",
+        "Char": 14,
+        "Count": 4
+      },
+      {
+        "Start": 1.9230625,
+        "Text": "para",
+        "Char": 19,
+        "Count": 4
+      },
+      {
+        "Start": 2.3554375,
+        "Text": "ela",
+        "Char": 24,
+        "Count": 3
+      },
+      {
+        "Start": 2.7994375,
+        "Text": "e",
+        "Char": 28,
+        "Count": 1
+      },
+      {
+        "Start": 2.93725,
+        "Text": "puxa",
+        "Char": 30,
+        "Count": 4
+      },
+      {
+        "Start": 3.594375,
+        "Text": "a",
+        "Char": 35,
+        "Count": 1
+      },
+      {
+        "Start": 3.7555625,
+        "Text": "única",
+        "Char": 37,
+        "Count": 5
+      },
+      {
+        "Start": 4.339,
+        "Text": "cadeira",
+        "Char": 43,
+        "Count": 7
+      },
+      {
+        "Start": 5.1579375,
+        "Text": "vazia",
+        "Char": 51,
+        "Count": 5
+      }
+    ]
+  },
+  {
+    "id": "11",
+    "words": [
+      {
+        "Start": 0.1335625,
+        "Text": "A",
+        "Char": 0,
+        "Count": 1
+      },
+      {
+        "Start": 0.261125,
+        "Text": "buzina",
+        "Char": 2,
+        "Count": 6
+      },
+      {
+        "Start": 1.0639375,
+        "Text": "faz",
+        "Char": 9,
+        "Count": 3
+      },
+      {
+        "Start": 1.5425,
+        "Text": "Lia",
+        "Char": 13,
+        "Count": 3
+      },
+      {
+        "Start": 1.9580625,
+        "Text": "se",
+        "Char": 17,
+        "Count": 2
+      },
+      {
+        "Start": 2.2160625,
+        "Text": "virar",
+        "Char": 20,
+        "Count": 5
+      },
+      {
+        "Start": 4.376625,
+        "Text": "O",
+        "Char": 27,
+        "Count": 1
+      },
+      {
+        "Start": 4.5450625,
+        "Text": "ônibus",
+        "Char": 29,
+        "Count": 6
+      },
+      {
+        "Start": 5.2651875,
+        "Text": "está",
+        "Char": 36,
+        "Count": 4
+      },
+      {
+        "Start": 5.7575,
+        "Text": "começando",
+        "Char": 41,
+        "Count": 9
+      },
+      {
+        "Start": 6.8245625,
+        "Text": "a",
+        "Char": 51,
+        "Count": 1
+      },
+      {
+        "Start": 6.9546875,
+        "Text": "andar",
+        "Char": 53,
+        "Count": 5
+      }
+    ]
+  },
+  {
+    "id": "12",
+    "words": [
+      {
+        "Start": 0.13375,
+        "Text": "Ela",
+        "Char": 0,
+        "Count": 3
+      },
+      {
+        "Start": 0.4985625,
+        "Text": "pode",
+        "Char": 4,
+        "Count": 4
+      },
+      {
+        "Start": 1.094125,
+        "Text": "entrar",
+        "Char": 9,
+        "Count": 6
+      },
+      {
+        "Start": 1.7075,
+        "Text": "e",
+        "Char": 16,
+        "Count": 1
+      },
+      {
+        "Start": 1.8455625,
+        "Text": "tentar",
+        "Char": 18,
+        "Count": 6
+      },
+      {
+        "Start": 2.5501875,
+        "Text": "buscar",
+        "Char": 25,
+        "Count": 6
+      },
+      {
+        "Start": 3.26475,
+        "Text": "o",
+        "Char": 32,
+        "Count": 1
+      },
+      {
+        "Start": 3.3944375,
+        "Text": "irmão",
+        "Char": 34,
+        "Count": 5
+      },
+      {
+        "Start": 5.4258125,
+        "Text": "Mas",
+        "Char": 41,
+        "Count": 3
+      },
+      {
+        "Start": 6.40825,
+        "Text": "se",
+        "Char": 46,
+        "Count": 2
+      },
+      {
+        "Start": 6.735875,
+        "Text": "demorar",
+        "Char": 49,
+        "Count": 7
+      },
+      {
+        "Start": 7.992375,
+        "Text": "vai",
+        "Char": 58,
+        "Count": 3
+      },
+      {
+        "Start": 8.3896875,
+        "Text": "ficar",
+        "Char": 62,
+        "Count": 5
+      },
+      {
+        "Start": 9.080875,
+        "Text": "para",
+        "Char": 68,
+        "Count": 4
+      },
+      {
+        "Start": 9.537125,
+        "Text": "trás",
+        "Char": 73,
+        "Count": 4
+      }
+    ]
+  },
+  {
+    "id": "13",
+    "words": [
+      {
+        "Start": 0.133375,
+        "Text": "Ou",
+        "Char": 0,
+        "Count": 2
+      },
+      {
+        "Start": 0.376125,
+        "Text": "pode",
+        "Char": 3,
+        "Count": 4
+      },
+      {
+        "Start": 0.9323125,
+        "Text": "pegar",
+        "Char": 8,
+        "Count": 5
+      },
+      {
+        "Start": 1.518375,
+        "Text": "o",
+        "Char": 14,
+        "Count": 1
+      },
+      {
+        "Start": 1.68025,
+        "Text": "ônibus",
+        "Char": 16,
+        "Count": 6
+      },
+      {
+        "Start": 2.8894375,
+        "Text": "e",
+        "Char": 24,
+        "Count": 1
+      },
+      {
+        "Start": 3.0305625,
+        "Text": "deixá-lo",
+        "Char": 26,
+        "Count": 8
+      },
+      {
+        "Start": 3.93725,
+        "Text": "ali",
+        "Char": 35,
+        "Count": 3
+      }
+    ]
+  },
+  {
+    "id": "14",
+    "words": [
+      {
+        "Start": 0.1370625,
+        "Text": "O",
+        "Char": 0,
+        "Count": 1
+      },
+      {
+        "Start": 0.2610625,
+        "Text": "que",
+        "Char": 2,
+        "Count": 3
+      },
+      {
+        "Start": 0.4815,
+        "Text": "Lia",
+        "Char": 6,
+        "Count": 3
+      },
+      {
+        "Start": 0.9248125,
+        "Text": "deve",
+        "Char": 10,
+        "Count": 4
+      },
+      {
+        "Start": 1.429375,
+        "Text": "fazer",
+        "Char": 15,
+        "Count": 5
+      }
+    ]
+  },
+  {
+    "id": "15",
+    "words": [
+      {
+        "Start": 0.1416875,
+        "Text": "A",
+        "Char": 0,
+        "Count": 1
+      },
+      {
+        "Start": 0.7279375,
+        "Text": "entrar",
+        "Char": 3,
+        "Count": 6
+      },
+      {
+        "Start": 1.4533125,
+        "Text": "no",
+        "Char": 10,
+        "Count": 2
+      },
+      {
+        "Start": 1.69,
+        "Text": "prédio",
+        "Char": 13,
+        "Count": 6
+      }
+    ]
+  },
+  {
+    "id": "16",
+    "words": [
+      {
+        "Start": 0.133375,
+        "Text": "B",
+        "Char": 0,
+        "Count": 1
+      },
+      {
+        "Start": 0.842,
+        "Text": "pegar",
+        "Char": 3,
+        "Count": 5
+      },
+      {
+        "Start": 1.492,
+        "Text": "o",
+        "Char": 9,
+        "Count": 1
+      },
+      {
+        "Start": 1.65275,
+        "Text": "ônibus",
+        "Char": 11,
+        "Count": 6
+      }
+    ]
+  },
+  {
+    "id": "17",
+    "words": [
+      {
+        "Start": 0.13375,
+        "Text": "Comente",
+        "Char": 0,
+        "Count": 7
+      },
+      {
+        "Start": 0.9255,
+        "Text": "A",
+        "Char": 8,
+        "Count": 1
+      },
+      {
+        "Start": 1.046375,
+        "Text": "ou",
+        "Char": 10,
+        "Count": 2
+      },
+      {
+        "Start": 1.266125,
+        "Text": "B.",
+        "Char": 13,
+        "Count": 2
+      },
+      {
+        "Start": 2.967875,
+        "Text": "A",
+        "Char": 16,
+        "Count": 1
+      },
+      {
+        "Start": 3.0954375,
+        "Text": "escolha",
+        "Char": 18,
+        "Count": 7
+      },
+      {
+        "Start": 3.9068125,
+        "Text": "mais",
+        "Char": 26,
+        "Count": 4
+      },
+      {
+        "Start": 4.41975,
+        "Text": "votada",
+        "Char": 31,
+        "Count": 6
+      },
+      {
+        "Start": 5.322125,
+        "Text": "vira",
+        "Char": 38,
+        "Count": 4
+      },
+      {
+        "Start": 5.8625625,
+        "Text": "a",
+        "Char": 43,
+        "Count": 1
+      },
+      {
+        "Start": 5.9615,
+        "Text": "continuação",
+        "Char": 45,
+        "Count": 11
+      }
+    ]
+  }
+]

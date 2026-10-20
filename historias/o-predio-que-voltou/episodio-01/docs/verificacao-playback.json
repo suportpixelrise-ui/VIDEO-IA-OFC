@@ -1,0 +1,106 @@
+{
+  "quality": {
+    "width": 1080,
+    "height": 1920,
+    "ended": true,
+    "muted": false,
+    "volume": 1,
+    "duration": 119.147,
+    "quality": {
+      "droppedVideoFrames": 0,
+      "totalVideoFrames": 3574
+    }
+  },
+  "sampled": [
+    {
+      "time": 2.20375,
+      "duration": 119.147,
+      "ended": false,
+      "muted": false,
+      "volume": 1,
+      "paused": false
+    },
+    {
+      "time": 15.055291,
+      "duration": 119.147,
+      "ended": false,
+      "muted": false,
+      "volume": 1,
+      "paused": false
+    },
+    {
+      "time": 30.110925,
+      "duration": 119.147,
+      "ended": false,
+      "muted": false,
+      "volume": 1,
+      "paused": false
+    },
+    {
+      "time": 45.256514,
+      "duration": 119.147,
+      "ended": false,
+      "muted": false,
+      "volume": 1,
+      "paused": false
+    },
+    {
+      "time": 54.058708,
+      "duration": 119.147,
+      "ended": false,
+      "muted": false,
+      "volume": 1,
+      "paused": false
+    },
+    {
+      "time": 68.283067,
+      "duration": 119.147,
+      "ended": false,
+      "muted": false,
+      "volume": 1,
+      "paused": false
+    },
+    {
+      "time": 76.281819,
+      "duration": 119.147,
+      "ended": false,
+      "muted": false,
+      "volume": 1,
+      "paused": false
+    },
+    {
+      "time": 85.194835,
+      "duration": 119.147,
+      "ended": false,
+      "muted": false,
+      "volume": 1,
+      "paused": false
+    },
+    {
+      "time": 99.076046,
+      "duration": 119.147,
+      "ended": false,
+      "muted": false,
+      "volume": 1,
+      "paused": false
+    },
+    {
+      "time": 112.08611,
+      "duration": 119.147,
+      "ended": false,
+      "muted": false,
+      "volume": 1,
+      "paused": false
+    },
+    {
+      "time": 118.191832,
+      "duration": 119.147,
+      "ended": false,
+      "muted": false,
+      "volume": 1,
+      "paused": false
+    }
+  ],
+  "errors": [],
+  "method": "Reprodução integral, velocidade 1x, som habilitado; quadros amostrados. Não substitui avaliação humana da naturalidade da locução."
+}

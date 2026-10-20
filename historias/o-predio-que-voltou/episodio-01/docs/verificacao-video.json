@@ -1,0 +1,58 @@
+{
+  "files": {
+    "episodio-01-principal.mp4": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 1080,
+          "height": 1920,
+          "r_frame_rate": "30/1",
+          "nb_frames": "3574",
+          "side_data_list": [
+            {}
+          ]
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0",
+          "nb_frames": "5587"
+        }
+      ],
+      "format": {
+        "duration": "119.147000",
+        "size": "19899899"
+      },
+      "sha256": "fed22e34645d2c191ccf0dc8e22fdd5fb95730589984f1b770642515d98a908d"
+    },
+    "episodio-01-sem-musica.mp4": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 1080,
+          "height": 1920,
+          "r_frame_rate": "30/1",
+          "nb_frames": "3574",
+          "side_data_list": [
+            {}
+          ]
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0",
+          "nb_frames": "5585"
+        }
+      ],
+      "format": {
+        "duration": "119.133333",
+        "size": "17593167"
+      },
+      "sha256": "f3c0ed8328fdbdc280e87b81a05fd9d681aa826924dd4525851e9fe42f3c9f6a"
+    }
+  },
+  "identical_video_stream_sha256": "0b9cffdc31064264f54e0e3dc833ee063b73636360ccd9e02110268ef8e1598b",
+  "full_decode_without_errors": true
+}

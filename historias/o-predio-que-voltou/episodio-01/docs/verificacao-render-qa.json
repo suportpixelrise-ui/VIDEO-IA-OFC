@@ -1,0 +1,30 @@
+{
+  "composition": {
+    "id": "ACadeiraVazia",
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "durationInFrames": 3574,
+    "props": {
+      "music": true
+    },
+    "defaultProps": {
+      "music": true
+    },
+    "defaultCodec": null,
+    "defaultOutName": null,
+    "defaultVideoImageFormat": null,
+    "defaultPixelFormat": null,
+    "defaultProResProfile": null,
+    "defaultSampleRate": null
+  },
+  "frames": [
+    1170,
+    2040,
+    2290,
+    2335,
+    2730,
+    3210
+  ],
+  "scale": 0.5
+}

@@ -1,0 +1,82 @@
+{
+  "fachada-proxima.png": {
+    "file": "fachada-proxima.png",
+    "generated_file": "exec-652d087c-4f02-43df-b187-939f7e3e1f1c.png",
+    "width": 941,
+    "height": 1672,
+    "transparent": false,
+    "mode": "built-in image_gen"
+  },
+  "lia-rig.png": {
+    "file": "lia-rig.png",
+    "generated_file": "exec-2daa3e71-0f8b-41df-ad84-a8ad2c20d91b.png",
+    "width": 1254,
+    "height": 1254,
+    "transparent": true,
+    "mode": "built-in image_gen"
+  },
+  "caio-rig.png": {
+    "file": "caio-rig.png",
+    "generated_file": "exec-51592af6-2326-4278-8316-94ac605bdc3c.png",
+    "width": 1254,
+    "height": 1254,
+    "transparent": true,
+    "mode": "built-in image_gen"
+  },
+  "motorista-rig.png": {
+    "file": "motorista-rig.png",
+    "generated_file": "exec-776de319-75ed-4db7-92fc-44c1b906c253.png",
+    "width": 1254,
+    "height": 1254,
+    "transparent": true,
+    "mode": "built-in image_gen"
+  },
+  "rua-vazia-vertical.png": {
+    "file": "rua-vazia-vertical.png",
+    "generated_file": "exec-e935d05b-79b3-45fa-be99-f56ed96c3cc6.png",
+    "width": 941,
+    "height": 1672,
+    "transparent": false,
+    "mode": "built-in image_gen"
+  },
+  "rua-predio-vertical.png": {
+    "file": "rua-predio-vertical.png",
+    "generated_file": "exec-259b7dae-0c0a-46ec-b6a2-a897c49d8178.png",
+    "width": 941,
+    "height": 1672,
+    "transparent": false,
+    "mode": "built-in image_gen"
+  },
+  "jantar-vertical.png": {
+    "file": "jantar-vertical.png",
+    "generated_file": "exec-a0028e1b-000e-406d-803d-04ba9d19bb85.png",
+    "width": 941,
+    "height": 1672,
+    "transparent": false,
+    "mode": "built-in image_gen"
+  },
+  "cadeira.png": {
+    "file": "cadeira.png",
+    "generated_file": "exec-84b469ca-90a8-4500-8995-1f0ea2c67732.png",
+    "width": 1254,
+    "height": 1254,
+    "transparent": true,
+    "mode": "built-in image_gen"
+  },
+  "onibus.png": {
+    "file": "onibus.png",
+    "generated_file": "exec-6f83e8ce-9ea6-4e54-b8e2-326b4565639d.png",
+    "width": 1536,
+    "height": 1024,
+    "transparent": true,
+    "mode": "built-in image_gen"
+  },
+  "sobreviventes.png": {
+    "file": "sobreviventes.png",
+    "generated_file": "exec-062bc4e1-9bd9-4e64-b08d-393e6050cbf7.png",
+    "width": 1536,
+    "height": 1024,
+    "transparent": true,
+    "mode": "built-in image_gen"
+  }
+}

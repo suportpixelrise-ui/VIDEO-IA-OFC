@@ -1,0 +1,56 @@
+{
+  "serie": "O Prédio que Voltou",
+  "episodio": 1,
+  "titulo": "A cadeira vazia",
+  "referencia_oficial": "../../referencias/personagens-cartoon-2d-aprovado.png",
+  "fatos": [
+    "Os desaparecimentos começaram há doze dias.",
+    "O prédio de Caio sumiu à noite e deixou terra lisa.",
+    "Lia perdeu contato com o irmão e se refugiou na escola.",
+    "O abrigo está sendo evacuado no último ônibus.",
+    "O prédio reaparece no mesmo terreno.",
+    "Caio e vizinhos estão jantando; a comida está quente.",
+    "Não respondem às batidas no vidro.",
+    "Caio olha para Lia e puxa a única cadeira vazia.",
+    "O ônibus começa a andar e continua alcançável.",
+    "A porta permanece fechada; Lia não escolhe."
+  ],
+  "lia_sabe": [
+    "O prédio estava ausente e voltou.",
+    "Caio está visível e a convidou com o gesto da cadeira.",
+    "Demorar pode custar a evacuação."
+  ],
+  "misterios": [
+    "Causa dos desaparecimentos.",
+    "Onde estiveram as pessoas.",
+    "Por que não respondem às batidas.",
+    "Por que parecem esperar por Lia.",
+    "Quanto do mundo ainda existe."
+  ],
+  "estado_final": {
+    "Lia": "Calçada junto à entrada fechada, olhando entre prédio e ônibus. Mochila vermelha presente.",
+    "Caio": "Sentado à mesa, no centro entre os vizinhos.",
+    "Motorista": "No ônibus ainda próximo.",
+    "cadeira": "Vazia, deslocada após o gesto de Caio.",
+    "porta": "Fechada."
+  },
+  "votacao": {
+    "estado": "ainda_nao_realizada",
+    "vencedora": null,
+    "contagens": null,
+    "A": "Entrar no prédio e tentar buscar o irmão.",
+    "B": "Pegar o ônibus e seguir com os sobreviventes."
+  },
+  "direcoes_possiveis_nao_canonicas": {
+    "A": "Contato com Caio e custo de perder a evacuação.",
+    "B": "Fuga com os sobreviventes, separação de Caio e informações dos passageiros."
+  },
+  "consequencia_vencedora_estabelecida": null,
+  "proibicoes_de_continuidade": [
+    "Não afirmar morte, monstros ou viagem no tempo.",
+    "Não abrir a porta no episódio 1.",
+    "Não retirar a mochila sem ação.",
+    "Não inventar votação.",
+    "Não fazer A e B convergirem imediatamente."
+  ]
+}
